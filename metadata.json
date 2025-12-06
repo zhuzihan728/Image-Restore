@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 0,
+    "corrupted_image": "00000_alpha01-05.png",
+    "original_image": "0142d48981f7904a0b4e45725514cb79.png",
+    "mask_image": "af6568e95d42944a9a985ab722241bab.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.36837491429388425,
+    "mask_scale": 1.0401803918878119,
+    "crop_position": [
+      0.9447052520548572,
+      0.685035417866408
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 0,
+    "corrupted_image": "00000_alpha05-08.png",
+    "original_image": "0142d48981f7904a0b4e45725514cb79.png",
+    "mask_image": "af6568e95d42944a9a985ab722241bab.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6277366518701015,
+    "mask_scale": 1.0401803918878119,
+    "crop_position": [
+      0.9447052520548572,
+      0.685035417866408
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 0,
+    "corrupted_image": "00000_alpha08-10.png",
+    "original_image": "0142d48981f7904a0b4e45725514cb79.png",
+    "mask_image": "af6568e95d42944a9a985ab722241bab.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9966440285196765,
+    "mask_scale": 1.0401803918878119,
+    "crop_position": [
+      0.9447052520548572,
+      0.685035417866408
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 1,
+    "corrupted_image": "00001_alpha01-05.png",
+    "original_image": "0185c6367f0329fced2d2abd0f3672cf.png",
+    "mask_image": "5d76bd00a624c5b376f0d39d901ee48d.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.39137656814098276,
+    "mask_scale": 1.1569217369706501,
+    "crop_position": [
+      0.7641008220743757,
+      0.582929532041238
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 1,
+    "corrupted_image": "00001_alpha05-08.png",
+    "original_image": "0185c6367f0329fced2d2abd0f3672cf.png",
+    "mask_image": "5d76bd00a624c5b376f0d39d901ee48d.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7183343051049822,
+    "mask_scale": 1.1569217369706501,
+    "crop_position": [
+      0.7641008220743757,
+      0.582929532041238
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 1,
+    "corrupted_image": "00001_alpha08-10.png",
+    "original_image": "0185c6367f0329fced2d2abd0f3672cf.png",
+    "mask_image": "5d76bd00a624c5b376f0d39d901ee48d.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8952228655840557,
+    "mask_scale": 1.1569217369706501,
+    "crop_position": [
+      0.7641008220743757,
+      0.582929532041238
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 2,
+    "corrupted_image": "00002_alpha01-05.png",
+    "original_image": "037e7874801ca03275f75650e3fd7248.png",
+    "mask_image": "98b9aa16353503fbe586fd1b2e246b9c.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.356928839328034,
+    "mask_scale": 1.199521728222514,
+    "crop_position": [
+      0.6817989754412469,
+      0.5393472206648279
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 2,
+    "corrupted_image": "00002_alpha05-08.png",
+    "original_image": "037e7874801ca03275f75650e3fd7248.png",
+    "mask_image": "98b9aa16353503fbe586fd1b2e246b9c.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5335400307684074,
+    "mask_scale": 1.199521728222514,
+    "crop_position": [
+      0.6817989754412469,
+      0.5393472206648279
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 2,
+    "corrupted_image": "00002_alpha08-10.png",
+    "original_image": "037e7874801ca03275f75650e3fd7248.png",
+    "mask_image": "98b9aa16353503fbe586fd1b2e246b9c.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8972992883288973,
+    "mask_scale": 1.199521728222514,
+    "crop_position": [
+      0.6817989754412469,
+      0.5393472206648279
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 3,
+    "corrupted_image": "00003_alpha01-05.png",
+    "original_image": "06684e54e9a69f6eea5fa5a580728b5c.png",
+    "mask_image": "f3603363aa6a6c25de7cbdbd21297fe8.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2622531561541233,
+    "mask_scale": 1.036338976443244,
+    "crop_position": [
+      0.2419735169615771,
+      0.9107674140615278
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 3,
+    "corrupted_image": "00003_alpha05-08.png",
+    "original_image": "06684e54e9a69f6eea5fa5a580728b5c.png",
+    "mask_image": "f3603363aa6a6c25de7cbdbd21297fe8.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6228546279477959,
+    "mask_scale": 1.036338976443244,
+    "crop_position": [
+      0.2419735169615771,
+      0.9107674140615278
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 3,
+    "corrupted_image": "00003_alpha08-10.png",
+    "original_image": "06684e54e9a69f6eea5fa5a580728b5c.png",
+    "mask_image": "f3603363aa6a6c25de7cbdbd21297fe8.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.840929334587296,
+    "mask_scale": 1.036338976443244,
+    "crop_position": [
+      0.2419735169615771,
+      0.9107674140615278
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 4,
+    "corrupted_image": "00004_alpha01-05.png",
+    "original_image": "07f1b08cc767b6c186dc418f7a810cc2.png",
+    "mask_image": "0b98fb597d4644f0c06ea7c466a0e17b.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.275899340258435,
+    "mask_scale": 1.1849341060388985,
+    "crop_position": [
+      0.5967875457493466,
+      0.8978411919743935
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 4,
+    "corrupted_image": "00004_alpha05-08.png",
+    "original_image": "07f1b08cc767b6c186dc418f7a810cc2.png",
+    "mask_image": "0b98fb597d4644f0c06ea7c466a0e17b.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5302338170542211,
+    "mask_scale": 1.1849341060388985,
+    "crop_position": [
+      0.5967875457493466,
+      0.8978411919743935
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 4,
+    "corrupted_image": "00004_alpha08-10.png",
+    "original_image": "07f1b08cc767b6c186dc418f7a810cc2.png",
+    "mask_image": "0b98fb597d4644f0c06ea7c466a0e17b.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8331813156976591,
+    "mask_scale": 1.1849341060388985,
+    "crop_position": [
+      0.5967875457493466,
+      0.8978411919743935
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 5,
+    "corrupted_image": "00005_alpha01-05.png",
+    "original_image": "087c05aba5c5815abd356f7071c0d807.png",
+    "mask_image": "0e9ef3a2bae372887e48f715ae338df3.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3327441441385815,
+    "mask_scale": 1.1703126314907297,
+    "crop_position": [
+      0.713619958535295,
+      0.5524789079720912
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 5,
+    "corrupted_image": "00005_alpha05-08.png",
+    "original_image": "087c05aba5c5815abd356f7071c0d807.png",
+    "mask_image": "0e9ef3a2bae372887e48f715ae338df3.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7044453864426263,
+    "mask_scale": 1.1703126314907297,
+    "crop_position": [
+      0.713619958535295,
+      0.5524789079720912
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 5,
+    "corrupted_image": "00005_alpha08-10.png",
+    "original_image": "087c05aba5c5815abd356f7071c0d807.png",
+    "mask_image": "0e9ef3a2bae372887e48f715ae338df3.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9290235722746655,
+    "mask_scale": 1.1703126314907297,
+    "crop_position": [
+      0.713619958535295,
+      0.5524789079720912
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 6,
+    "corrupted_image": "00006_alpha01-05.png",
+    "original_image": "0e9ef3a2bae372887e48f715ae338df3.png",
+    "mask_image": "f37f790fb4f86042402c30b9880f8f73.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2769763054252759,
+    "mask_scale": 1.0686311683299936,
+    "crop_position": [
+      0.9761610604450138,
+      0.18775997089505425
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 6,
+    "corrupted_image": "00006_alpha05-08.png",
+    "original_image": "0e9ef3a2bae372887e48f715ae338df3.png",
+    "mask_image": "f37f790fb4f86042402c30b9880f8f73.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5799044555886543,
+    "mask_scale": 1.0686311683299936,
+    "crop_position": [
+      0.9761610604450138,
+      0.18775997089505425
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 6,
+    "corrupted_image": "00006_alpha08-10.png",
+    "original_image": "0e9ef3a2bae372887e48f715ae338df3.png",
+    "mask_image": "f37f790fb4f86042402c30b9880f8f73.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8193481537495969,
+    "mask_scale": 1.0686311683299936,
+    "crop_position": [
+      0.9761610604450138,
+      0.18775997089505425
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 7,
+    "corrupted_image": "00007_alpha01-05.png",
+    "original_image": "15e49e44e59c44cb3e1898e996fa0f84.png",
+    "mask_image": "92c978159a0aad6489c522b206a12dbf.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.15532988168015602,
+    "mask_scale": 1.1642206615132888,
+    "crop_position": [
+      0.37955016977918343,
+      0.35143503961365685
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 7,
+    "corrupted_image": "00007_alpha05-08.png",
+    "original_image": "15e49e44e59c44cb3e1898e996fa0f84.png",
+    "mask_image": "92c978159a0aad6489c522b206a12dbf.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7252039994931745,
+    "mask_scale": 1.1642206615132888,
+    "crop_position": [
+      0.37955016977918343,
+      0.35143503961365685
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 7,
+    "corrupted_image": "00007_alpha08-10.png",
+    "original_image": "15e49e44e59c44cb3e1898e996fa0f84.png",
+    "mask_image": "92c978159a0aad6489c522b206a12dbf.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9959985653753687,
+    "mask_scale": 1.1642206615132888,
+    "crop_position": [
+      0.37955016977918343,
+      0.35143503961365685
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 8,
+    "corrupted_image": "00008_alpha01-05.png",
+    "original_image": "188ca5673a7283b3b9dc7c32582b364c.png",
+    "mask_image": "c2fb69e9983b6f4276b25e9df47adcd8.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3718537909324563,
+    "mask_scale": 1.150370416894444,
+    "crop_position": [
+      0.5128628064664801,
+      0.42938762394361984
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 8,
+    "corrupted_image": "00008_alpha05-08.png",
+    "original_image": "188ca5673a7283b3b9dc7c32582b364c.png",
+    "mask_image": "c2fb69e9983b6f4276b25e9df47adcd8.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5752641519877894,
+    "mask_scale": 1.150370416894444,
+    "crop_position": [
+      0.5128628064664801,
+      0.42938762394361984
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 8,
+    "corrupted_image": "00008_alpha08-10.png",
+    "original_image": "188ca5673a7283b3b9dc7c32582b364c.png",
+    "mask_image": "c2fb69e9983b6f4276b25e9df47adcd8.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9240204115262476,
+    "mask_scale": 1.150370416894444,
+    "crop_position": [
+      0.5128628064664801,
+      0.42938762394361984
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 9,
+    "corrupted_image": "00009_alpha01-05.png",
+    "original_image": "19f6ede47c92ab74e8c4f7e27f5b692a.png",
+    "mask_image": "6da9bd18ec3527a46471c99432e18f20.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.16771518559734344,
+    "mask_scale": 1.0000850588552568,
+    "crop_position": [
+      0.19752005340452838,
+      0.9376010347775339
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 9,
+    "corrupted_image": "00009_alpha05-08.png",
+    "original_image": "19f6ede47c92ab74e8c4f7e27f5b692a.png",
+    "mask_image": "6da9bd18ec3527a46471c99432e18f20.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.683403412134743,
+    "mask_scale": 1.0000850588552568,
+    "crop_position": [
+      0.19752005340452838,
+      0.9376010347775339
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 9,
+    "corrupted_image": "00009_alpha08-10.png",
+    "original_image": "19f6ede47c92ab74e8c4f7e27f5b692a.png",
+    "mask_image": "6da9bd18ec3527a46471c99432e18f20.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9210926477681936,
+    "mask_scale": 1.0000850588552568,
+    "crop_position": [
+      0.19752005340452838,
+      0.9376010347775339
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 10,
+    "corrupted_image": "00010_alpha01-05.png",
+    "original_image": "1d0aa8356ab5a0618f5af2708ff7cc7f.png",
+    "mask_image": "d277c0b95b084776d98e1d2a759534bb.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.1770216418500271,
+    "mask_scale": 1.0217330018111623,
+    "crop_position": [
+      0.8000508535227392,
+      0.5315551520330072
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 10,
+    "corrupted_image": "00010_alpha05-08.png",
+    "original_image": "1d0aa8356ab5a0618f5af2708ff7cc7f.png",
+    "mask_image": "d277c0b95b084776d98e1d2a759534bb.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6633389879849991,
+    "mask_scale": 1.0217330018111623,
+    "crop_position": [
+      0.8000508535227392,
+      0.5315551520330072
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 10,
+    "corrupted_image": "00010_alpha08-10.png",
+    "original_image": "1d0aa8356ab5a0618f5af2708ff7cc7f.png",
+    "mask_image": "d277c0b95b084776d98e1d2a759534bb.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8868473797715769,
+    "mask_scale": 1.0217330018111623,
+    "crop_position": [
+      0.8000508535227392,
+      0.5315551520330072
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 11,
+    "corrupted_image": "00011_alpha01-05.png",
+    "original_image": "1e18430ae368a966ce431351270393dd.png",
+    "mask_image": "52a6448610e8d951e7dc27dae9d162aa.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.10729371783695876,
+    "mask_scale": 1.0016131097495842,
+    "crop_position": [
+      0.2830324428229213,
+      0.816188059271252
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 11,
+    "corrupted_image": "00011_alpha05-08.png",
+    "original_image": "1e18430ae368a966ce431351270393dd.png",
+    "mask_image": "52a6448610e8d951e7dc27dae9d162aa.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6652456434047247,
+    "mask_scale": 1.0016131097495842,
+    "crop_position": [
+      0.2830324428229213,
+      0.816188059271252
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 11,
+    "corrupted_image": "00011_alpha08-10.png",
+    "original_image": "1e18430ae368a966ce431351270393dd.png",
+    "mask_image": "52a6448610e8d951e7dc27dae9d162aa.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9877327870211625,
+    "mask_scale": 1.0016131097495842,
+    "crop_position": [
+      0.2830324428229213,
+      0.816188059271252
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 12,
+    "corrupted_image": "00012_alpha01-05.png",
+    "original_image": "22558219ba31df3f02d2fc662220825f.png",
+    "mask_image": "c2e732b74d2b482f88828e414646a99c.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.49210017790680494,
+    "mask_scale": 1.0847049352127214,
+    "crop_position": [
+      0.16528926785301723,
+      0.5034385197244503
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 12,
+    "corrupted_image": "00012_alpha05-08.png",
+    "original_image": "22558219ba31df3f02d2fc662220825f.png",
+    "mask_image": "c2e732b74d2b482f88828e414646a99c.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5659838155387369,
+    "mask_scale": 1.0847049352127214,
+    "crop_position": [
+      0.16528926785301723,
+      0.5034385197244503
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 12,
+    "corrupted_image": "00012_alpha08-10.png",
+    "original_image": "22558219ba31df3f02d2fc662220825f.png",
+    "mask_image": "c2e732b74d2b482f88828e414646a99c.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8868457330251545,
+    "mask_scale": 1.0847049352127214,
+    "crop_position": [
+      0.16528926785301723,
+      0.5034385197244503
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 13,
+    "corrupted_image": "00013_alpha01-05.png",
+    "original_image": "26a69a4739419ca51110eee0ebfd9372.png",
+    "mask_image": "4173bb0551ecfd376bfe4bdf1894cb6e.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.34533957534417004,
+    "mask_scale": 1.159063723140175,
+    "crop_position": [
+      0.1328405403027526,
+      0.5530307932813681
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 13,
+    "corrupted_image": "00013_alpha05-08.png",
+    "original_image": "26a69a4739419ca51110eee0ebfd9372.png",
+    "mask_image": "4173bb0551ecfd376bfe4bdf1894cb6e.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6974772308246951,
+    "mask_scale": 1.159063723140175,
+    "crop_position": [
+      0.1328405403027526,
+      0.5530307932813681
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 13,
+    "corrupted_image": "00013_alpha08-10.png",
+    "original_image": "26a69a4739419ca51110eee0ebfd9372.png",
+    "mask_image": "4173bb0551ecfd376bfe4bdf1894cb6e.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9168339461340559,
+    "mask_scale": 1.159063723140175,
+    "crop_position": [
+      0.1328405403027526,
+      0.5530307932813681
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 14,
+    "corrupted_image": "00014_alpha01-05.png",
+    "original_image": "271c1bd33f484ac84223a1cb2dea532b.png",
+    "mask_image": "37050d2b4d93120f68cfecb6055ef36b.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.14827104582052597,
+    "mask_scale": 1.155330061207342,
+    "crop_position": [
+      0.43541674671420805,
+      0.5516624784220027
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 14,
+    "corrupted_image": "00014_alpha05-08.png",
+    "original_image": "271c1bd33f484ac84223a1cb2dea532b.png",
+    "mask_image": "37050d2b4d93120f68cfecb6055ef36b.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.527607139364218,
+    "mask_scale": 1.155330061207342,
+    "crop_position": [
+      0.43541674671420805,
+      0.5516624784220027
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 14,
+    "corrupted_image": "00014_alpha08-10.png",
+    "original_image": "271c1bd33f484ac84223a1cb2dea532b.png",
+    "mask_image": "37050d2b4d93120f68cfecb6055ef36b.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8596520806016765,
+    "mask_scale": 1.155330061207342,
+    "crop_position": [
+      0.43541674671420805,
+      0.5516624784220027
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 15,
+    "corrupted_image": "00015_alpha01-05.png",
+    "original_image": "2a9afdd78cafd2f7ebe35cb6ec9f66eb.png",
+    "mask_image": "f86167f1cbbae2ff1c6ddf6d6c6b83e6.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.4310171135304899,
+    "mask_scale": 1.0023070560017968,
+    "crop_position": [
+      0.9030964290034683,
+      0.9667261583874296
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 15,
+    "corrupted_image": "00015_alpha05-08.png",
+    "original_image": "2a9afdd78cafd2f7ebe35cb6ec9f66eb.png",
+    "mask_image": "f86167f1cbbae2ff1c6ddf6d6c6b83e6.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7722130138848602,
+    "mask_scale": 1.0023070560017968,
+    "crop_position": [
+      0.9030964290034683,
+      0.9667261583874296
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 15,
+    "corrupted_image": "00015_alpha08-10.png",
+    "original_image": "2a9afdd78cafd2f7ebe35cb6ec9f66eb.png",
+    "mask_image": "f86167f1cbbae2ff1c6ddf6d6c6b83e6.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9769377200670908,
+    "mask_scale": 1.0023070560017968,
+    "crop_position": [
+      0.9030964290034683,
+      0.9667261583874296
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 16,
+    "corrupted_image": "00016_alpha01-05.png",
+    "original_image": "318c627a3f70c58507ec0ba9c1dd24ba.png",
+    "mask_image": "115dfa72bb6491fcfd3609e1f9d6b79f.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.1500629072239441,
+    "mask_scale": 1.0586887407806436,
+    "crop_position": [
+      0.5846331746657708,
+      0.8775065682981966
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 16,
+    "corrupted_image": "00016_alpha05-08.png",
+    "original_image": "318c627a3f70c58507ec0ba9c1dd24ba.png",
+    "mask_image": "115dfa72bb6491fcfd3609e1f9d6b79f.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6391896440604756,
+    "mask_scale": 1.0586887407806436,
+    "crop_position": [
+      0.5846331746657708,
+      0.8775065682981966
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 16,
+    "corrupted_image": "00016_alpha08-10.png",
+    "original_image": "318c627a3f70c58507ec0ba9c1dd24ba.png",
+    "mask_image": "115dfa72bb6491fcfd3609e1f9d6b79f.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9599562114617978,
+    "mask_scale": 1.0586887407806436,
+    "crop_position": [
+      0.5846331746657708,
+      0.8775065682981966
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 17,
+    "corrupted_image": "00017_alpha01-05.png",
+    "original_image": "31a1a8235ab98c15bb7756013e29b360.png",
+    "mask_image": "4858b655dd4d62b3f9ba834ceed131eb.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.18336751677831653,
+    "mask_scale": 1.0905022279784424,
+    "crop_position": [
+      0.11397656945668067,
+      0.9816363741621126
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 17,
+    "corrupted_image": "00017_alpha05-08.png",
+    "original_image": "31a1a8235ab98c15bb7756013e29b360.png",
+    "mask_image": "4858b655dd4d62b3f9ba834ceed131eb.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7015123134551591,
+    "mask_scale": 1.0905022279784424,
+    "crop_position": [
+      0.11397656945668067,
+      0.9816363741621126
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 17,
+    "corrupted_image": "00017_alpha08-10.png",
+    "original_image": "31a1a8235ab98c15bb7756013e29b360.png",
+    "mask_image": "4858b655dd4d62b3f9ba834ceed131eb.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9431548316014559,
+    "mask_scale": 1.0905022279784424,
+    "crop_position": [
+      0.11397656945668067,
+      0.9816363741621126
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 18,
+    "corrupted_image": "00018_alpha01-05.png",
+    "original_image": "354e8d64d7444c62fa62859cad38d4a3.png",
+    "mask_image": "f23e47959be9146ccd42c13850acf60c.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2936221318332467,
+    "mask_scale": 1.0183632788959607,
+    "crop_position": [
+      0.054948524427474,
+      0.835518980067645
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 18,
+    "corrupted_image": "00018_alpha05-08.png",
+    "original_image": "354e8d64d7444c62fa62859cad38d4a3.png",
+    "mask_image": "f23e47959be9146ccd42c13850acf60c.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7078259232992079,
+    "mask_scale": 1.0183632788959607,
+    "crop_position": [
+      0.054948524427474,
+      0.835518980067645
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 18,
+    "corrupted_image": "00018_alpha08-10.png",
+    "original_image": "354e8d64d7444c62fa62859cad38d4a3.png",
+    "mask_image": "f23e47959be9146ccd42c13850acf60c.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.927517362382315,
+    "mask_scale": 1.0183632788959607,
+    "crop_position": [
+      0.054948524427474,
+      0.835518980067645
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 19,
+    "corrupted_image": "00019_alpha01-05.png",
+    "original_image": "36ed010ac2cbcbb2150faced45329f4f.png",
+    "mask_image": "fe3e9743e7330a969e2f9e26d1fa043d.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.38689984835579794,
+    "mask_scale": 1.1732826225283273,
+    "crop_position": [
+      0.13724863598857828,
+      0.13789801192280327
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 19,
+    "corrupted_image": "00019_alpha05-08.png",
+    "original_image": "36ed010ac2cbcbb2150faced45329f4f.png",
+    "mask_image": "fe3e9743e7330a969e2f9e26d1fa043d.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7388789948535531,
+    "mask_scale": 1.1732826225283273,
+    "crop_position": [
+      0.13724863598857828,
+      0.13789801192280327
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 19,
+    "corrupted_image": "00019_alpha08-10.png",
+    "original_image": "36ed010ac2cbcbb2150faced45329f4f.png",
+    "mask_image": "fe3e9743e7330a969e2f9e26d1fa043d.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9855968437139575,
+    "mask_scale": 1.1732826225283273,
+    "crop_position": [
+      0.13724863598857828,
+      0.13789801192280327
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 20,
+    "corrupted_image": "00020_alpha01-05.png",
+    "original_image": "3cb780b4d48a2b8957ef3fad9a2b2fc4.png",
+    "mask_image": "c24698a82bcc8c8627213c56a25d440e.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2521657900168344,
+    "mask_scale": 1.192586429872279,
+    "crop_position": [
+      0.5384216113411087,
+      0.9605897964432858
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 20,
+    "corrupted_image": "00020_alpha05-08.png",
+    "original_image": "3cb780b4d48a2b8957ef3fad9a2b2fc4.png",
+    "mask_image": "c24698a82bcc8c8627213c56a25d440e.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7904640429734726,
+    "mask_scale": 1.192586429872279,
+    "crop_position": [
+      0.5384216113411087,
+      0.9605897964432858
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 20,
+    "corrupted_image": "00020_alpha08-10.png",
+    "original_image": "3cb780b4d48a2b8957ef3fad9a2b2fc4.png",
+    "mask_image": "c24698a82bcc8c8627213c56a25d440e.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8356102645244751,
+    "mask_scale": 1.192586429872279,
+    "crop_position": [
+      0.5384216113411087,
+      0.9605897964432858
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 21,
+    "corrupted_image": "00021_alpha01-05.png",
+    "original_image": "3d052ed08676f68c33ac18639f05ddf1.png",
+    "mask_image": "5191260267353ea8ddfca0300a6f56b1.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2984976454521475,
+    "mask_scale": 1.0990915167614121,
+    "crop_position": [
+      0.6929836038502536,
+      0.09995999156413471
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 21,
+    "corrupted_image": "00021_alpha05-08.png",
+    "original_image": "3d052ed08676f68c33ac18639f05ddf1.png",
+    "mask_image": "5191260267353ea8ddfca0300a6f56b1.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.76643373365746,
+    "mask_scale": 1.0990915167614121,
+    "crop_position": [
+      0.6929836038502536,
+      0.09995999156413471
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 21,
+    "corrupted_image": "00021_alpha08-10.png",
+    "original_image": "3d052ed08676f68c33ac18639f05ddf1.png",
+    "mask_image": "5191260267353ea8ddfca0300a6f56b1.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9729199628907348,
+    "mask_scale": 1.0990915167614121,
+    "crop_position": [
+      0.6929836038502536,
+      0.09995999156413471
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 22,
+    "corrupted_image": "00022_alpha01-05.png",
+    "original_image": "3f37491da0cc9b8284213e923abede80.png",
+    "mask_image": "36565d33903fadabc9c955b9975f1ea2.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.46525917747605317,
+    "mask_scale": 1.0695110242748511,
+    "crop_position": [
+      0.013101137739765512,
+      0.6462674206707918
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 22,
+    "corrupted_image": "00022_alpha05-08.png",
+    "original_image": "3f37491da0cc9b8284213e923abede80.png",
+    "mask_image": "36565d33903fadabc9c955b9975f1ea2.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7638382504295084,
+    "mask_scale": 1.0695110242748511,
+    "crop_position": [
+      0.013101137739765512,
+      0.6462674206707918
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 22,
+    "corrupted_image": "00022_alpha08-10.png",
+    "original_image": "3f37491da0cc9b8284213e923abede80.png",
+    "mask_image": "36565d33903fadabc9c955b9975f1ea2.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9058818693874099,
+    "mask_scale": 1.0695110242748511,
+    "crop_position": [
+      0.013101137739765512,
+      0.6462674206707918
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 23,
+    "corrupted_image": "00023_alpha01-05.png",
+    "original_image": "492406ff4e6d0fe88033c5e68f27d371.png",
+    "mask_image": "902e894222541355ecb23411915185cf.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.43385795372498925,
+    "mask_scale": 1.0337068085075487,
+    "crop_position": [
+      0.16055523845675757,
+      0.04606626370394251
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 23,
+    "corrupted_image": "00023_alpha05-08.png",
+    "original_image": "492406ff4e6d0fe88033c5e68f27d371.png",
+    "mask_image": "902e894222541355ecb23411915185cf.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5562566534264526,
+    "mask_scale": 1.0337068085075487,
+    "crop_position": [
+      0.16055523845675757,
+      0.04606626370394251
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 23,
+    "corrupted_image": "00023_alpha08-10.png",
+    "original_image": "492406ff4e6d0fe88033c5e68f27d371.png",
+    "mask_image": "902e894222541355ecb23411915185cf.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8125279143316346,
+    "mask_scale": 1.0337068085075487,
+    "crop_position": [
+      0.16055523845675757,
+      0.04606626370394251
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 24,
+    "corrupted_image": "00024_alpha01-05.png",
+    "original_image": "4b4883b599fda49362b5bc12c41b4cec.png",
+    "mask_image": "5910fe8ad563e361732bb61ca60f4a76.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.18480043313708286,
+    "mask_scale": 1.1859444307447522,
+    "crop_position": [
+      0.4088998979711066,
+      0.44729657736098605
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 24,
+    "corrupted_image": "00024_alpha05-08.png",
+    "original_image": "4b4883b599fda49362b5bc12c41b4cec.png",
+    "mask_image": "5910fe8ad563e361732bb61ca60f4a76.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7026246709636786,
+    "mask_scale": 1.1859444307447522,
+    "crop_position": [
+      0.4088998979711066,
+      0.44729657736098605
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 24,
+    "corrupted_image": "00024_alpha08-10.png",
+    "original_image": "4b4883b599fda49362b5bc12c41b4cec.png",
+    "mask_image": "5910fe8ad563e361732bb61ca60f4a76.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.804100551568657,
+    "mask_scale": 1.1859444307447522,
+    "crop_position": [
+      0.4088998979711066,
+      0.44729657736098605
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 25,
+    "corrupted_image": "00025_alpha01-05.png",
+    "original_image": "4c9a75660424fa68bcbbefedc3f8b519.png",
+    "mask_image": "25f8a92aa28c6d95e5a2392fad7b45d4.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.18503769795497724,
+    "mask_scale": 1.0708596477944619,
+    "crop_position": [
+      0.24803210389987418,
+      0.23209975881513722
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 25,
+    "corrupted_image": "00025_alpha05-08.png",
+    "original_image": "4c9a75660424fa68bcbbefedc3f8b519.png",
+    "mask_image": "25f8a92aa28c6d95e5a2392fad7b45d4.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5507216131751299,
+    "mask_scale": 1.0708596477944619,
+    "crop_position": [
+      0.24803210389987418,
+      0.23209975881513722
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 25,
+    "corrupted_image": "00025_alpha08-10.png",
+    "original_image": "4c9a75660424fa68bcbbefedc3f8b519.png",
+    "mask_image": "25f8a92aa28c6d95e5a2392fad7b45d4.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.916952835237159,
+    "mask_scale": 1.0708596477944619,
+    "crop_position": [
+      0.24803210389987418,
+      0.23209975881513722
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 26,
+    "corrupted_image": "00026_alpha01-05.png",
+    "original_image": "505cdc9bd6d15ee49674119c9a362cc7.png",
+    "mask_image": "3cb780b4d48a2b8957ef3fad9a2b2fc4.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.1657265077566094,
+    "mask_scale": 1.1026653347720108,
+    "crop_position": [
+      0.07602630802688992,
+      0.11584486133543959
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 26,
+    "corrupted_image": "00026_alpha05-08.png",
+    "original_image": "505cdc9bd6d15ee49674119c9a362cc7.png",
+    "mask_image": "3cb780b4d48a2b8957ef3fad9a2b2fc4.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7931675330063594,
+    "mask_scale": 1.1026653347720108,
+    "crop_position": [
+      0.07602630802688992,
+      0.11584486133543959
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 26,
+    "corrupted_image": "00026_alpha08-10.png",
+    "original_image": "505cdc9bd6d15ee49674119c9a362cc7.png",
+    "mask_image": "3cb780b4d48a2b8957ef3fad9a2b2fc4.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8860656268938429,
+    "mask_scale": 1.1026653347720108,
+    "crop_position": [
+      0.07602630802688992,
+      0.11584486133543959
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 27,
+    "corrupted_image": "00027_alpha01-05.png",
+    "original_image": "55abe865ec6781a613c1c759399f30b3.png",
+    "mask_image": "b284cc8a8c017190e2dee299c0fe2d59.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3834857584586354,
+    "mask_scale": 1.016772800644287,
+    "crop_position": [
+      0.19585363205208506,
+      0.2683279707264088
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 27,
+    "corrupted_image": "00027_alpha05-08.png",
+    "original_image": "55abe865ec6781a613c1c759399f30b3.png",
+    "mask_image": "b284cc8a8c017190e2dee299c0fe2d59.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6840733168180212,
+    "mask_scale": 1.016772800644287,
+    "crop_position": [
+      0.19585363205208506,
+      0.2683279707264088
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 27,
+    "corrupted_image": "00027_alpha08-10.png",
+    "original_image": "55abe865ec6781a613c1c759399f30b3.png",
+    "mask_image": "b284cc8a8c017190e2dee299c0fe2d59.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.83483843836912,
+    "mask_scale": 1.016772800644287,
+    "crop_position": [
+      0.19585363205208506,
+      0.2683279707264088
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 28,
+    "corrupted_image": "00028_alpha01-05.png",
+    "original_image": "56a9dfacdc4c44b74653a9d1d2013b0d.png",
+    "mask_image": "f1643dffb170dddba7f715f55f76afdd.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.24040645209254963,
+    "mask_scale": 1.036399650545127,
+    "crop_position": [
+      0.4602629888248895,
+      0.6519398756796553
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 28,
+    "corrupted_image": "00028_alpha05-08.png",
+    "original_image": "56a9dfacdc4c44b74653a9d1d2013b0d.png",
+    "mask_image": "f1643dffb170dddba7f715f55f76afdd.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5206414685631156,
+    "mask_scale": 1.036399650545127,
+    "crop_position": [
+      0.4602629888248895,
+      0.6519398756796553
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 28,
+    "corrupted_image": "00028_alpha08-10.png",
+    "original_image": "56a9dfacdc4c44b74653a9d1d2013b0d.png",
+    "mask_image": "f1643dffb170dddba7f715f55f76afdd.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8337995524993903,
+    "mask_scale": 1.036399650545127,
+    "crop_position": [
+      0.4602629888248895,
+      0.6519398756796553
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 29,
+    "corrupted_image": "00029_alpha01-05.png",
+    "original_image": "5b4c7ae48a7231679b281aae0cd94b8c.png",
+    "mask_image": "4a235225d2025c9e2a8460ebeadaf21a.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.367994665182111,
+    "mask_scale": 1.0552756834912107,
+    "crop_position": [
+      0.6310949648112512,
+      0.08571834826862368
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 29,
+    "corrupted_image": "00029_alpha05-08.png",
+    "original_image": "5b4c7ae48a7231679b281aae0cd94b8c.png",
+    "mask_image": "4a235225d2025c9e2a8460ebeadaf21a.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7751196334362491,
+    "mask_scale": 1.0552756834912107,
+    "crop_position": [
+      0.6310949648112512,
+      0.08571834826862368
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 29,
+    "corrupted_image": "00029_alpha08-10.png",
+    "original_image": "5b4c7ae48a7231679b281aae0cd94b8c.png",
+    "mask_image": "4a235225d2025c9e2a8460ebeadaf21a.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9656342226078543,
+    "mask_scale": 1.0552756834912107,
+    "crop_position": [
+      0.6310949648112512,
+      0.08571834826862368
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 30,
+    "corrupted_image": "00030_alpha01-05.png",
+    "original_image": "5ee7884c8f30de7edb8c59d88c6161b4.png",
+    "mask_image": "4d4375b9395cafe3308f9f735320d954.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2707966180555309,
+    "mask_scale": 1.1945060859636845,
+    "crop_position": [
+      0.7299972336638716,
+      0.8133486093535003
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 30,
+    "corrupted_image": "00030_alpha05-08.png",
+    "original_image": "5ee7884c8f30de7edb8c59d88c6161b4.png",
+    "mask_image": "4d4375b9395cafe3308f9f735320d954.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5546897708079696,
+    "mask_scale": 1.1945060859636845,
+    "crop_position": [
+      0.7299972336638716,
+      0.8133486093535003
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 30,
+    "corrupted_image": "00030_alpha08-10.png",
+    "original_image": "5ee7884c8f30de7edb8c59d88c6161b4.png",
+    "mask_image": "4d4375b9395cafe3308f9f735320d954.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9951949161259864,
+    "mask_scale": 1.1945060859636845,
+    "crop_position": [
+      0.7299972336638716,
+      0.8133486093535003
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 31,
+    "corrupted_image": "00031_alpha01-05.png",
+    "original_image": "621cb5e8d8dd11137fe9b4a65c17011b.png",
+    "mask_image": "25f8a92aa28c6d95e5a2392fad7b45d4.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.15855229195305387,
+    "mask_scale": 1.177027526761781,
+    "crop_position": [
+      0.6539403862551127,
+      0.13832370539887495
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 31,
+    "corrupted_image": "00031_alpha05-08.png",
+    "original_image": "621cb5e8d8dd11137fe9b4a65c17011b.png",
+    "mask_image": "25f8a92aa28c6d95e5a2392fad7b45d4.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5298111975458419,
+    "mask_scale": 1.177027526761781,
+    "crop_position": [
+      0.6539403862551127,
+      0.13832370539887495
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 31,
+    "corrupted_image": "00031_alpha08-10.png",
+    "original_image": "621cb5e8d8dd11137fe9b4a65c17011b.png",
+    "mask_image": "25f8a92aa28c6d95e5a2392fad7b45d4.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9495115564827677,
+    "mask_scale": 1.177027526761781,
+    "crop_position": [
+      0.6539403862551127,
+      0.13832370539887495
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 32,
+    "corrupted_image": "00032_alpha01-05.png",
+    "original_image": "65127947761158739ce122381f6d5ea1.png",
+    "mask_image": "13c149c46f237232b8ada12c18f5d6fa.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.15752020830796326,
+    "mask_scale": 1.196729872327035,
+    "crop_position": [
+      0.7262628314096387,
+      0.9730405960629056
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 32,
+    "corrupted_image": "00032_alpha05-08.png",
+    "original_image": "65127947761158739ce122381f6d5ea1.png",
+    "mask_image": "13c149c46f237232b8ada12c18f5d6fa.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6687741466308577,
+    "mask_scale": 1.196729872327035,
+    "crop_position": [
+      0.7262628314096387,
+      0.9730405960629056
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 32,
+    "corrupted_image": "00032_alpha08-10.png",
+    "original_image": "65127947761158739ce122381f6d5ea1.png",
+    "mask_image": "13c149c46f237232b8ada12c18f5d6fa.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8293173858716605,
+    "mask_scale": 1.196729872327035,
+    "crop_position": [
+      0.7262628314096387,
+      0.9730405960629056
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 33,
+    "corrupted_image": "00033_alpha01-05.png",
+    "original_image": "65cf9d2579ca461061fd9cb286aecbf0.png",
+    "mask_image": "fbe17bb21594e5f3b8061dfb58107359.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.33748611605370044,
+    "mask_scale": 1.0069795478080588,
+    "crop_position": [
+      0.3481602543748934,
+      0.08223489524319616
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 33,
+    "corrupted_image": "00033_alpha05-08.png",
+    "original_image": "65cf9d2579ca461061fd9cb286aecbf0.png",
+    "mask_image": "fbe17bb21594e5f3b8061dfb58107359.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7655322961671474,
+    "mask_scale": 1.0069795478080588,
+    "crop_position": [
+      0.3481602543748934,
+      0.08223489524319616
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 33,
+    "corrupted_image": "00033_alpha08-10.png",
+    "original_image": "65cf9d2579ca461061fd9cb286aecbf0.png",
+    "mask_image": "fbe17bb21594e5f3b8061dfb58107359.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9061589981649752,
+    "mask_scale": 1.0069795478080588,
+    "crop_position": [
+      0.3481602543748934,
+      0.08223489524319616
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 34,
+    "corrupted_image": "00034_alpha01-05.png",
+    "original_image": "66d6bf69b182731b1719575bec5971a5.png",
+    "mask_image": "83a4bb2577e6b0b508b6f5d386a07190.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3513511399896939,
+    "mask_scale": 1.1117692165861677,
+    "crop_position": [
+      0.09236709544093091,
+      0.7764802301633194
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 34,
+    "corrupted_image": "00034_alpha05-08.png",
+    "original_image": "66d6bf69b182731b1719575bec5971a5.png",
+    "mask_image": "83a4bb2577e6b0b508b6f5d386a07190.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6398832740775445,
+    "mask_scale": 1.1117692165861677,
+    "crop_position": [
+      0.09236709544093091,
+      0.7764802301633194
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 34,
+    "corrupted_image": "00034_alpha08-10.png",
+    "original_image": "66d6bf69b182731b1719575bec5971a5.png",
+    "mask_image": "83a4bb2577e6b0b508b6f5d386a07190.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.867350995067986,
+    "mask_scale": 1.1117692165861677,
+    "crop_position": [
+      0.09236709544093091,
+      0.7764802301633194
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 35,
+    "corrupted_image": "00035_alpha01-05.png",
+    "original_image": "684d192dd56ee57161f203ee72818b73.png",
+    "mask_image": "40f125570bc8bfc7bd56bf7da1c5e296.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.31896291099723795,
+    "mask_scale": 1.1293722208619017,
+    "crop_position": [
+      0.2866784011128525,
+      0.1593714224489512
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 35,
+    "corrupted_image": "00035_alpha05-08.png",
+    "original_image": "684d192dd56ee57161f203ee72818b73.png",
+    "mask_image": "40f125570bc8bfc7bd56bf7da1c5e296.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6247501342284976,
+    "mask_scale": 1.1293722208619017,
+    "crop_position": [
+      0.2866784011128525,
+      0.1593714224489512
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 35,
+    "corrupted_image": "00035_alpha08-10.png",
+    "original_image": "684d192dd56ee57161f203ee72818b73.png",
+    "mask_image": "40f125570bc8bfc7bd56bf7da1c5e296.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9051041561391233,
+    "mask_scale": 1.1293722208619017,
+    "crop_position": [
+      0.2866784011128525,
+      0.1593714224489512
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 36,
+    "corrupted_image": "00036_alpha01-05.png",
+    "original_image": "69662e1571fac31494fb48637ec2ad9d.png",
+    "mask_image": "000efab36f5e5d4620a3172f13d370d2.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.40859905802078433,
+    "mask_scale": 1.1714384171769363,
+    "crop_position": [
+      0.3453300242546571,
+      0.13875386313194615
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 36,
+    "corrupted_image": "00036_alpha05-08.png",
+    "original_image": "69662e1571fac31494fb48637ec2ad9d.png",
+    "mask_image": "000efab36f5e5d4620a3172f13d370d2.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7633968210010471,
+    "mask_scale": 1.1714384171769363,
+    "crop_position": [
+      0.3453300242546571,
+      0.13875386313194615
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 36,
+    "corrupted_image": "00036_alpha08-10.png",
+    "original_image": "69662e1571fac31494fb48637ec2ad9d.png",
+    "mask_image": "000efab36f5e5d4620a3172f13d370d2.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9870627653271792,
+    "mask_scale": 1.1714384171769363,
+    "crop_position": [
+      0.3453300242546571,
+      0.13875386313194615
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 37,
+    "corrupted_image": "00037_alpha01-05.png",
+    "original_image": "69f0625896ed8ddd3515a2a785b04438.png",
+    "mask_image": "bd8d60b013cc56c5e5e2201413b612be.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.14259654249037138,
+    "mask_scale": 1.1205287497537653,
+    "crop_position": [
+      0.8983914626920916,
+      0.25173646758067325
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 37,
+    "corrupted_image": "00037_alpha05-08.png",
+    "original_image": "69f0625896ed8ddd3515a2a785b04438.png",
+    "mask_image": "bd8d60b013cc56c5e5e2201413b612be.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5174550481369702,
+    "mask_scale": 1.1205287497537653,
+    "crop_position": [
+      0.8983914626920916,
+      0.25173646758067325
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 37,
+    "corrupted_image": "00037_alpha08-10.png",
+    "original_image": "69f0625896ed8ddd3515a2a785b04438.png",
+    "mask_image": "bd8d60b013cc56c5e5e2201413b612be.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8854155897611024,
+    "mask_scale": 1.1205287497537653,
+    "crop_position": [
+      0.8983914626920916,
+      0.25173646758067325
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 38,
+    "corrupted_image": "00038_alpha01-05.png",
+    "original_image": "6bd47470a968f3ddee03d913ea1e9587.png",
+    "mask_image": "b81ba64f6418581f3f2a570bea6bdb33.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.263439675119172,
+    "mask_scale": 1.1358295419492934,
+    "crop_position": [
+      0.24594068672124358,
+      0.9157301580092235
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 38,
+    "corrupted_image": "00038_alpha05-08.png",
+    "original_image": "6bd47470a968f3ddee03d913ea1e9587.png",
+    "mask_image": "b81ba64f6418581f3f2a570bea6bdb33.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5202627570528752,
+    "mask_scale": 1.1358295419492934,
+    "crop_position": [
+      0.24594068672124358,
+      0.9157301580092235
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 38,
+    "corrupted_image": "00038_alpha08-10.png",
+    "original_image": "6bd47470a968f3ddee03d913ea1e9587.png",
+    "mask_image": "b81ba64f6418581f3f2a570bea6bdb33.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8860837946084174,
+    "mask_scale": 1.1358295419492934,
+    "crop_position": [
+      0.24594068672124358,
+      0.9157301580092235
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 39,
+    "corrupted_image": "00039_alpha01-05.png",
+    "original_image": "6c3c022ba8ec33d1f9dba463245c4bce.png",
+    "mask_image": "70e601cbcc0d81a19112ee21da4ff8fd.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.13893157534851186,
+    "mask_scale": 1.0037841976204442,
+    "crop_position": [
+      0.22020617305290924,
+      0.7579383369905229
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 39,
+    "corrupted_image": "00039_alpha05-08.png",
+    "original_image": "6c3c022ba8ec33d1f9dba463245c4bce.png",
+    "mask_image": "70e601cbcc0d81a19112ee21da4ff8fd.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6210320575288365,
+    "mask_scale": 1.0037841976204442,
+    "crop_position": [
+      0.22020617305290924,
+      0.7579383369905229
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 39,
+    "corrupted_image": "00039_alpha08-10.png",
+    "original_image": "6c3c022ba8ec33d1f9dba463245c4bce.png",
+    "mask_image": "70e601cbcc0d81a19112ee21da4ff8fd.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9237932081475145,
+    "mask_scale": 1.0037841976204442,
+    "crop_position": [
+      0.22020617305290924,
+      0.7579383369905229
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 40,
+    "corrupted_image": "00040_alpha01-05.png",
+    "original_image": "71666c0b447f8d7b0639f795e8bdb24c.png",
+    "mask_image": "0142d48981f7904a0b4e45725514cb79.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.23836443955565115,
+    "mask_scale": 1.006449054044839,
+    "crop_position": [
+      0.1501600881082611,
+      0.777058191830695
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 40,
+    "corrupted_image": "00040_alpha05-08.png",
+    "original_image": "71666c0b447f8d7b0639f795e8bdb24c.png",
+    "mask_image": "0142d48981f7904a0b4e45725514cb79.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.601004475011,
+    "mask_scale": 1.006449054044839,
+    "crop_position": [
+      0.1501600881082611,
+      0.777058191830695
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 40,
+    "corrupted_image": "00040_alpha08-10.png",
+    "original_image": "71666c0b447f8d7b0639f795e8bdb24c.png",
+    "mask_image": "0142d48981f7904a0b4e45725514cb79.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8137755054371585,
+    "mask_scale": 1.006449054044839,
+    "crop_position": [
+      0.1501600881082611,
+      0.777058191830695
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 41,
+    "corrupted_image": "00041_alpha01-05.png",
+    "original_image": "72d1d3ef4e9710c070065e8455d38f7c.png",
+    "mask_image": "fe3e9743e7330a969e2f9e26d1fa043d.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3854942710144452,
+    "mask_scale": 1.010132117996289,
+    "crop_position": [
+      0.5452983874604118,
+      0.12788523893694592
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 41,
+    "corrupted_image": "00041_alpha05-08.png",
+    "original_image": "72d1d3ef4e9710c070065e8455d38f7c.png",
+    "mask_image": "fe3e9743e7330a969e2f9e26d1fa043d.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5407382281742703,
+    "mask_scale": 1.010132117996289,
+    "crop_position": [
+      0.5452983874604118,
+      0.12788523893694592
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 41,
+    "corrupted_image": "00041_alpha08-10.png",
+    "original_image": "72d1d3ef4e9710c070065e8455d38f7c.png",
+    "mask_image": "fe3e9743e7330a969e2f9e26d1fa043d.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9613975958102069,
+    "mask_scale": 1.010132117996289,
+    "crop_position": [
+      0.5452983874604118,
+      0.12788523893694592
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 42,
+    "corrupted_image": "00042_alpha01-05.png",
+    "original_image": "72f2210a74ad3423e761c5c3d99e4dc3.png",
+    "mask_image": "ba28ef347cd73c4dbf79ffca2c7f2123.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2174687002601206,
+    "mask_scale": 1.054748102878094,
+    "crop_position": [
+      0.9488908881097158,
+      0.6869297650890249
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 42,
+    "corrupted_image": "00042_alpha05-08.png",
+    "original_image": "72f2210a74ad3423e761c5c3d99e4dc3.png",
+    "mask_image": "ba28ef347cd73c4dbf79ffca2c7f2123.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7574193980450945,
+    "mask_scale": 1.054748102878094,
+    "crop_position": [
+      0.9488908881097158,
+      0.6869297650890249
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 42,
+    "corrupted_image": "00042_alpha08-10.png",
+    "original_image": "72f2210a74ad3423e761c5c3d99e4dc3.png",
+    "mask_image": "ba28ef347cd73c4dbf79ffca2c7f2123.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8671766901807967,
+    "mask_scale": 1.054748102878094,
+    "crop_position": [
+      0.9488908881097158,
+      0.6869297650890249
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 43,
+    "corrupted_image": "00043_alpha01-05.png",
+    "original_image": "74c6c2c4d9f104bfa3f8dd0010e82dbf.png",
+    "mask_image": "013c467145354d913c141230491d58fd.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.44239200818198277,
+    "mask_scale": 1.1031594719457343,
+    "crop_position": [
+      0.6812202739660047,
+      0.9037520359159542
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 43,
+    "corrupted_image": "00043_alpha05-08.png",
+    "original_image": "74c6c2c4d9f104bfa3f8dd0010e82dbf.png",
+    "mask_image": "013c467145354d913c141230491d58fd.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6175711696826469,
+    "mask_scale": 1.1031594719457343,
+    "crop_position": [
+      0.6812202739660047,
+      0.9037520359159542
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 43,
+    "corrupted_image": "00043_alpha08-10.png",
+    "original_image": "74c6c2c4d9f104bfa3f8dd0010e82dbf.png",
+    "mask_image": "013c467145354d913c141230491d58fd.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8435330931632145,
+    "mask_scale": 1.1031594719457343,
+    "crop_position": [
+      0.6812202739660047,
+      0.9037520359159542
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 44,
+    "corrupted_image": "00044_alpha01-05.png",
+    "original_image": "74f16996a650b0f69d37539ba782f111.png",
+    "mask_image": "318c627a3f70c58507ec0ba9c1dd24ba.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.37957842178519796,
+    "mask_scale": 1.0230809156367107,
+    "crop_position": [
+      0.9189482945461604,
+      0.880370677041343
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 44,
+    "corrupted_image": "00044_alpha05-08.png",
+    "original_image": "74f16996a650b0f69d37539ba782f111.png",
+    "mask_image": "318c627a3f70c58507ec0ba9c1dd24ba.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6581517831236168,
+    "mask_scale": 1.0230809156367107,
+    "crop_position": [
+      0.9189482945461604,
+      0.880370677041343
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 44,
+    "corrupted_image": "00044_alpha08-10.png",
+    "original_image": "74f16996a650b0f69d37539ba782f111.png",
+    "mask_image": "318c627a3f70c58507ec0ba9c1dd24ba.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8849856099368868,
+    "mask_scale": 1.0230809156367107,
+    "crop_position": [
+      0.9189482945461604,
+      0.880370677041343
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 45,
+    "corrupted_image": "00045_alpha01-05.png",
+    "original_image": "751da9104f717cd79431af13bebb4ad2.png",
+    "mask_image": "998d0a16a20bd4c2eb1dd8bef11151ed.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.21160562532802996,
+    "mask_scale": 1.1713882062311691,
+    "crop_position": [
+      0.9820752743010933,
+      0.941123724422372
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 45,
+    "corrupted_image": "00045_alpha05-08.png",
+    "original_image": "751da9104f717cd79431af13bebb4ad2.png",
+    "mask_image": "998d0a16a20bd4c2eb1dd8bef11151ed.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6434288080121657,
+    "mask_scale": 1.1713882062311691,
+    "crop_position": [
+      0.9820752743010933,
+      0.941123724422372
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 45,
+    "corrupted_image": "00045_alpha08-10.png",
+    "original_image": "751da9104f717cd79431af13bebb4ad2.png",
+    "mask_image": "998d0a16a20bd4c2eb1dd8bef11151ed.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8616745702620572,
+    "mask_scale": 1.1713882062311691,
+    "crop_position": [
+      0.9820752743010933,
+      0.941123724422372
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 46,
+    "corrupted_image": "00046_alpha01-05.png",
+    "original_image": "783b98537c8ccd8b7ee95dd7ad4b3703.png",
+    "mask_image": "c46fcb996a62f150fa1a1f816e71be67.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.1799797371736158,
+    "mask_scale": 1.1908498017555986,
+    "crop_position": [
+      0.33143680103421425,
+      0.16296302775056315
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 46,
+    "corrupted_image": "00046_alpha05-08.png",
+    "original_image": "783b98537c8ccd8b7ee95dd7ad4b3703.png",
+    "mask_image": "c46fcb996a62f150fa1a1f816e71be67.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5711997065274372,
+    "mask_scale": 1.1908498017555986,
+    "crop_position": [
+      0.33143680103421425,
+      0.16296302775056315
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 46,
+    "corrupted_image": "00046_alpha08-10.png",
+    "original_image": "783b98537c8ccd8b7ee95dd7ad4b3703.png",
+    "mask_image": "c46fcb996a62f150fa1a1f816e71be67.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8098553373667567,
+    "mask_scale": 1.1908498017555986,
+    "crop_position": [
+      0.33143680103421425,
+      0.16296302775056315
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 47,
+    "corrupted_image": "00047_alpha01-05.png",
+    "original_image": "798f754a5b5ac41e13895202c22763c1.png",
+    "mask_image": "87d556768636aa3af10e58df5a0a0ffe.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.41909967697614803,
+    "mask_scale": 1.0847257147509506,
+    "crop_position": [
+      0.22408755555717697,
+      0.1695073862033848
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 47,
+    "corrupted_image": "00047_alpha05-08.png",
+    "original_image": "798f754a5b5ac41e13895202c22763c1.png",
+    "mask_image": "87d556768636aa3af10e58df5a0a0ffe.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7167415588056665,
+    "mask_scale": 1.0847257147509506,
+    "crop_position": [
+      0.22408755555717697,
+      0.1695073862033848
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 47,
+    "corrupted_image": "00047_alpha08-10.png",
+    "original_image": "798f754a5b5ac41e13895202c22763c1.png",
+    "mask_image": "87d556768636aa3af10e58df5a0a0ffe.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9701809218049693,
+    "mask_scale": 1.0847257147509506,
+    "crop_position": [
+      0.22408755555717697,
+      0.1695073862033848
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 48,
+    "corrupted_image": "00048_alpha01-05.png",
+    "original_image": "7a07ad09446c5b218ba928d98a81d6e5.png",
+    "mask_image": "d8d84c9a6ac8ae1aed0491270622c07b.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.44598462278748574,
+    "mask_scale": 1.0666373567367284,
+    "crop_position": [
+      0.2908388745637219,
+      0.8613490616879147
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 48,
+    "corrupted_image": "00048_alpha05-08.png",
+    "original_image": "7a07ad09446c5b218ba928d98a81d6e5.png",
+    "mask_image": "d8d84c9a6ac8ae1aed0491270622c07b.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5020726161189487,
+    "mask_scale": 1.0666373567367284,
+    "crop_position": [
+      0.2908388745637219,
+      0.8613490616879147
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 48,
+    "corrupted_image": "00048_alpha08-10.png",
+    "original_image": "7a07ad09446c5b218ba928d98a81d6e5.png",
+    "mask_image": "d8d84c9a6ac8ae1aed0491270622c07b.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8803145755522555,
+    "mask_scale": 1.0666373567367284,
+    "crop_position": [
+      0.2908388745637219,
+      0.8613490616879147
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 49,
+    "corrupted_image": "00049_alpha01-05.png",
+    "original_image": "7be431e7c3e4e9f006ad2319bd2ad46e.png",
+    "mask_image": "8e1e58975fd7aeec6737d44d44ec0e88.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.49489082898242365,
+    "mask_scale": 1.1326841057067132,
+    "crop_position": [
+      0.6906374673070192,
+      0.5159441315894004
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 49,
+    "corrupted_image": "00049_alpha05-08.png",
+    "original_image": "7be431e7c3e4e9f006ad2319bd2ad46e.png",
+    "mask_image": "8e1e58975fd7aeec6737d44d44ec0e88.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.567458246915945,
+    "mask_scale": 1.1326841057067132,
+    "crop_position": [
+      0.6906374673070192,
+      0.5159441315894004
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 49,
+    "corrupted_image": "00049_alpha08-10.png",
+    "original_image": "7be431e7c3e4e9f006ad2319bd2ad46e.png",
+    "mask_image": "8e1e58975fd7aeec6737d44d44ec0e88.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8993920966737924,
+    "mask_scale": 1.1326841057067132,
+    "crop_position": [
+      0.6906374673070192,
+      0.5159441315894004
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 50,
+    "corrupted_image": "00050_alpha01-05.png",
+    "original_image": "7d1400c4ee9a966d92b9d71fd82aa946.png",
+    "mask_image": "78f4e74251e2a4618353231b56cad8f4.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.49464950294992305,
+    "mask_scale": 1.0411524873197409,
+    "crop_position": [
+      0.987324551655543,
+      0.17780413772588
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 50,
+    "corrupted_image": "00050_alpha05-08.png",
+    "original_image": "7d1400c4ee9a966d92b9d71fd82aa946.png",
+    "mask_image": "78f4e74251e2a4618353231b56cad8f4.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7280410524195225,
+    "mask_scale": 1.0411524873197409,
+    "crop_position": [
+      0.987324551655543,
+      0.17780413772588
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 50,
+    "corrupted_image": "00050_alpha08-10.png",
+    "original_image": "7d1400c4ee9a966d92b9d71fd82aa946.png",
+    "mask_image": "78f4e74251e2a4618353231b56cad8f4.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8543033039078665,
+    "mask_scale": 1.0411524873197409,
+    "crop_position": [
+      0.987324551655543,
+      0.17780413772588
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 51,
+    "corrupted_image": "00051_alpha01-05.png",
+    "original_image": "7e3863f351f8eb5bfce51f0f212b9c75.png",
+    "mask_image": "53138521bd8dba3d4d06f07e0f64ab4a.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.10728019212717253,
+    "mask_scale": 1.082689435768598,
+    "crop_position": [
+      0.834268949323911,
+      0.09658310275175519
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 51,
+    "corrupted_image": "00051_alpha05-08.png",
+    "original_image": "7e3863f351f8eb5bfce51f0f212b9c75.png",
+    "mask_image": "53138521bd8dba3d4d06f07e0f64ab4a.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7509866236140815,
+    "mask_scale": 1.082689435768598,
+    "crop_position": [
+      0.834268949323911,
+      0.09658310275175519
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 51,
+    "corrupted_image": "00051_alpha08-10.png",
+    "original_image": "7e3863f351f8eb5bfce51f0f212b9c75.png",
+    "mask_image": "53138521bd8dba3d4d06f07e0f64ab4a.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.830376508935861,
+    "mask_scale": 1.082689435768598,
+    "crop_position": [
+      0.834268949323911,
+      0.09658310275175519
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 52,
+    "corrupted_image": "00052_alpha01-05.png",
+    "original_image": "836b6f568b0a999d941168c23b533428.png",
+    "mask_image": "a28d3b8b7553427972468f92a478c728.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.16111713150876877,
+    "mask_scale": 1.152327428874448,
+    "crop_position": [
+      0.7318738206470895,
+      0.9079793323981835
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 52,
+    "corrupted_image": "00052_alpha05-08.png",
+    "original_image": "836b6f568b0a999d941168c23b533428.png",
+    "mask_image": "a28d3b8b7553427972468f92a478c728.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7978822534198222,
+    "mask_scale": 1.152327428874448,
+    "crop_position": [
+      0.7318738206470895,
+      0.9079793323981835
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 52,
+    "corrupted_image": "00052_alpha08-10.png",
+    "original_image": "836b6f568b0a999d941168c23b533428.png",
+    "mask_image": "a28d3b8b7553427972468f92a478c728.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9862502376075422,
+    "mask_scale": 1.152327428874448,
+    "crop_position": [
+      0.7318738206470895,
+      0.9079793323981835
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 53,
+    "corrupted_image": "00053_alpha01-05.png",
+    "original_image": "87d556768636aa3af10e58df5a0a0ffe.png",
+    "mask_image": "dfd1e08d4472d8fcee9b9faa28549b9b.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2742657803586126,
+    "mask_scale": 1.1772738677416097,
+    "crop_position": [
+      0.40079404084769676,
+      0.9404829833257778
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 53,
+    "corrupted_image": "00053_alpha05-08.png",
+    "original_image": "87d556768636aa3af10e58df5a0a0ffe.png",
+    "mask_image": "dfd1e08d4472d8fcee9b9faa28549b9b.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5709698523345137,
+    "mask_scale": 1.1772738677416097,
+    "crop_position": [
+      0.40079404084769676,
+      0.9404829833257778
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 53,
+    "corrupted_image": "00053_alpha08-10.png",
+    "original_image": "87d556768636aa3af10e58df5a0a0ffe.png",
+    "mask_image": "dfd1e08d4472d8fcee9b9faa28549b9b.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8642210682566183,
+    "mask_scale": 1.1772738677416097,
+    "crop_position": [
+      0.40079404084769676,
+      0.9404829833257778
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 54,
+    "corrupted_image": "00054_alpha01-05.png",
+    "original_image": "87d6b99dd33e5e6f0bc3232de7aa61a4.png",
+    "mask_image": "ae01a5c15fb52541dc934b58636a37bb.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.11336921189250888,
+    "mask_scale": 1.1650968085380327,
+    "crop_position": [
+      0.8122758968242136,
+      0.5955940455291175
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 54,
+    "corrupted_image": "00054_alpha05-08.png",
+    "original_image": "87d6b99dd33e5e6f0bc3232de7aa61a4.png",
+    "mask_image": "ae01a5c15fb52541dc934b58636a37bb.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7122982945030242,
+    "mask_scale": 1.1650968085380327,
+    "crop_position": [
+      0.8122758968242136,
+      0.5955940455291175
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 54,
+    "corrupted_image": "00054_alpha08-10.png",
+    "original_image": "87d6b99dd33e5e6f0bc3232de7aa61a4.png",
+    "mask_image": "ae01a5c15fb52541dc934b58636a37bb.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9996564007533129,
+    "mask_scale": 1.1650968085380327,
+    "crop_position": [
+      0.8122758968242136,
+      0.5955940455291175
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 55,
+    "corrupted_image": "00055_alpha01-05.png",
+    "original_image": "9077cf59e5b8535e6774105e3ad16eea.png",
+    "mask_image": "2913425af274b5976623f98ecc19110e.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3693801283057635,
+    "mask_scale": 1.1078820446571058,
+    "crop_position": [
+      0.7168277930080016,
+      0.5454513686106527
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 55,
+    "corrupted_image": "00055_alpha05-08.png",
+    "original_image": "9077cf59e5b8535e6774105e3ad16eea.png",
+    "mask_image": "2913425af274b5976623f98ecc19110e.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.602862195996181,
+    "mask_scale": 1.1078820446571058,
+    "crop_position": [
+      0.7168277930080016,
+      0.5454513686106527
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 55,
+    "corrupted_image": "00055_alpha08-10.png",
+    "original_image": "9077cf59e5b8535e6774105e3ad16eea.png",
+    "mask_image": "2913425af274b5976623f98ecc19110e.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8995000353077343,
+    "mask_scale": 1.1078820446571058,
+    "crop_position": [
+      0.7168277930080016,
+      0.5454513686106527
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 56,
+    "corrupted_image": "00056_alpha01-05.png",
+    "original_image": "957d253766e7700cf93a09804b406c2f.png",
+    "mask_image": "40079d076d5c27745a978fcf02a903bd.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.1775431463223623,
+    "mask_scale": 1.0237091891018355,
+    "crop_position": [
+      0.043445430671126495,
+      0.7527454137631905
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 56,
+    "corrupted_image": "00056_alpha05-08.png",
+    "original_image": "957d253766e7700cf93a09804b406c2f.png",
+    "mask_image": "40079d076d5c27745a978fcf02a903bd.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7085773015965519,
+    "mask_scale": 1.0237091891018355,
+    "crop_position": [
+      0.043445430671126495,
+      0.7527454137631905
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 56,
+    "corrupted_image": "00056_alpha08-10.png",
+    "original_image": "957d253766e7700cf93a09804b406c2f.png",
+    "mask_image": "40079d076d5c27745a978fcf02a903bd.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9936234334459104,
+    "mask_scale": 1.0237091891018355,
+    "crop_position": [
+      0.043445430671126495,
+      0.7527454137631905
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 57,
+    "corrupted_image": "00057_alpha01-05.png",
+    "original_image": "98aed54ae109747645cd035f0dadede9.png",
+    "mask_image": "9ffb59f47f9258a8aa67bf014e61f89b.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3590346194421562,
+    "mask_scale": 1.1609832173748438,
+    "crop_position": [
+      0.7145113460415118,
+      0.20494736478553033
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 57,
+    "corrupted_image": "00057_alpha05-08.png",
+    "original_image": "98aed54ae109747645cd035f0dadede9.png",
+    "mask_image": "9ffb59f47f9258a8aa67bf014e61f89b.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7216817842778047,
+    "mask_scale": 1.1609832173748438,
+    "crop_position": [
+      0.7145113460415118,
+      0.20494736478553033
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 57,
+    "corrupted_image": "00057_alpha08-10.png",
+    "original_image": "98aed54ae109747645cd035f0dadede9.png",
+    "mask_image": "9ffb59f47f9258a8aa67bf014e61f89b.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9646133072973435,
+    "mask_scale": 1.1609832173748438,
+    "crop_position": [
+      0.7145113460415118,
+      0.20494736478553033
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 58,
+    "corrupted_image": "00058_alpha01-05.png",
+    "original_image": "9abc76d8e1fa57996bc607a545cb0f97.png",
+    "mask_image": "2691346758f24e006b0e6a3ed46c1a63.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.31778778729401225,
+    "mask_scale": 1.1931203336141647,
+    "crop_position": [
+      0.29213435072683647,
+      0.2551110285930187
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 58,
+    "corrupted_image": "00058_alpha05-08.png",
+    "original_image": "9abc76d8e1fa57996bc607a545cb0f97.png",
+    "mask_image": "2691346758f24e006b0e6a3ed46c1a63.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6192012662573756,
+    "mask_scale": 1.1931203336141647,
+    "crop_position": [
+      0.29213435072683647,
+      0.2551110285930187
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 58,
+    "corrupted_image": "00058_alpha08-10.png",
+    "original_image": "9abc76d8e1fa57996bc607a545cb0f97.png",
+    "mask_image": "2691346758f24e006b0e6a3ed46c1a63.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8914858273604203,
+    "mask_scale": 1.1931203336141647,
+    "crop_position": [
+      0.29213435072683647,
+      0.2551110285930187
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 59,
+    "corrupted_image": "00059_alpha01-05.png",
+    "original_image": "9cbe25d6afc2224aff14fd425b42d104.png",
+    "mask_image": "c388d84d573c604149c57dece075fa3c.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.34861610867070947,
+    "mask_scale": 1.0080310544144735,
+    "crop_position": [
+      0.18673831346651526,
+      0.700949604979542
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 59,
+    "corrupted_image": "00059_alpha05-08.png",
+    "original_image": "9cbe25d6afc2224aff14fd425b42d104.png",
+    "mask_image": "c388d84d573c604149c57dece075fa3c.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7942948344260133,
+    "mask_scale": 1.0080310544144735,
+    "crop_position": [
+      0.18673831346651526,
+      0.700949604979542
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 59,
+    "corrupted_image": "00059_alpha08-10.png",
+    "original_image": "9cbe25d6afc2224aff14fd425b42d104.png",
+    "mask_image": "c388d84d573c604149c57dece075fa3c.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9822357713956262,
+    "mask_scale": 1.0080310544144735,
+    "crop_position": [
+      0.18673831346651526,
+      0.700949604979542
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 60,
+    "corrupted_image": "00060_alpha01-05.png",
+    "original_image": "9d86a4db3ec90f3a8a073ff0c88a37a3.png",
+    "mask_image": "adb4d61faf288dc399180c0912ea72b1.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2331924100928598,
+    "mask_scale": 1.1218766883350364,
+    "crop_position": [
+      0.00031804085403730475,
+      0.06135826453049198
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 60,
+    "corrupted_image": "00060_alpha05-08.png",
+    "original_image": "9d86a4db3ec90f3a8a073ff0c88a37a3.png",
+    "mask_image": "adb4d61faf288dc399180c0912ea72b1.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5574330956390741,
+    "mask_scale": 1.1218766883350364,
+    "crop_position": [
+      0.00031804085403730475,
+      0.06135826453049198
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 60,
+    "corrupted_image": "00060_alpha08-10.png",
+    "original_image": "9d86a4db3ec90f3a8a073ff0c88a37a3.png",
+    "mask_image": "adb4d61faf288dc399180c0912ea72b1.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9590798594213458,
+    "mask_scale": 1.1218766883350364,
+    "crop_position": [
+      0.00031804085403730475,
+      0.06135826453049198
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 61,
+    "corrupted_image": "00061_alpha01-05.png",
+    "original_image": "9d921ffde2bd15ca320fc9a4cb425a7a.png",
+    "mask_image": "2663c88a3bc6cccdee40bb42430f6325.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.46637118916037956,
+    "mask_scale": 1.1685972800912,
+    "crop_position": [
+      0.66655721511546,
+      0.5737560692272101
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 61,
+    "corrupted_image": "00061_alpha05-08.png",
+    "original_image": "9d921ffde2bd15ca320fc9a4cb425a7a.png",
+    "mask_image": "2663c88a3bc6cccdee40bb42430f6325.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7334898684983998,
+    "mask_scale": 1.1685972800912,
+    "crop_position": [
+      0.66655721511546,
+      0.5737560692272101
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 61,
+    "corrupted_image": "00061_alpha08-10.png",
+    "original_image": "9d921ffde2bd15ca320fc9a4cb425a7a.png",
+    "mask_image": "2663c88a3bc6cccdee40bb42430f6325.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9011470533427393,
+    "mask_scale": 1.1685972800912,
+    "crop_position": [
+      0.66655721511546,
+      0.5737560692272101
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 62,
+    "corrupted_image": "00062_alpha01-05.png",
+    "original_image": "9f6e7db68e7c083d9bc04dcda9d41f16.png",
+    "mask_image": "ebcbb7c4559e059f5e830be9da900a55.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2642857283049592,
+    "mask_scale": 1.1923239187276773,
+    "crop_position": [
+      0.9162229800794944,
+      0.6603285804325293
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 62,
+    "corrupted_image": "00062_alpha05-08.png",
+    "original_image": "9f6e7db68e7c083d9bc04dcda9d41f16.png",
+    "mask_image": "ebcbb7c4559e059f5e830be9da900a55.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.702702841661082,
+    "mask_scale": 1.1923239187276773,
+    "crop_position": [
+      0.9162229800794944,
+      0.6603285804325293
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 62,
+    "corrupted_image": "00062_alpha08-10.png",
+    "original_image": "9f6e7db68e7c083d9bc04dcda9d41f16.png",
+    "mask_image": "ebcbb7c4559e059f5e830be9da900a55.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9267649065389344,
+    "mask_scale": 1.1923239187276773,
+    "crop_position": [
+      0.9162229800794944,
+      0.6603285804325293
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 63,
+    "corrupted_image": "00063_alpha01-05.png",
+    "original_image": "a58b1c08039428427b681ac0966665f9.png",
+    "mask_image": "9d86a4db3ec90f3a8a073ff0c88a37a3.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.30309369383377616,
+    "mask_scale": 1.1124296166426701,
+    "crop_position": [
+      0.9706187850983977,
+      0.25768896944584596
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 63,
+    "corrupted_image": "00063_alpha05-08.png",
+    "original_image": "a58b1c08039428427b681ac0966665f9.png",
+    "mask_image": "9d86a4db3ec90f3a8a073ff0c88a37a3.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7477231250509951,
+    "mask_scale": 1.1124296166426701,
+    "crop_position": [
+      0.9706187850983977,
+      0.25768896944584596
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 63,
+    "corrupted_image": "00063_alpha08-10.png",
+    "original_image": "a58b1c08039428427b681ac0966665f9.png",
+    "mask_image": "9d86a4db3ec90f3a8a073ff0c88a37a3.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9003192647542231,
+    "mask_scale": 1.1124296166426701,
+    "crop_position": [
+      0.9706187850983977,
+      0.25768896944584596
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 64,
+    "corrupted_image": "00064_alpha01-05.png",
+    "original_image": "a9b8cbcdbf741b78f75c81a38e8b8316.png",
+    "mask_image": "6b4df22df44c3a8ec67b123d935f3004.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.4111154332006358,
+    "mask_scale": 1.0329844631709202,
+    "crop_position": [
+      0.329081525796597,
+      0.5412343757237256
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 64,
+    "corrupted_image": "00064_alpha05-08.png",
+    "original_image": "a9b8cbcdbf741b78f75c81a38e8b8316.png",
+    "mask_image": "6b4df22df44c3a8ec67b123d935f3004.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5207491180517723,
+    "mask_scale": 1.0329844631709202,
+    "crop_position": [
+      0.329081525796597,
+      0.5412343757237256
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 64,
+    "corrupted_image": "00064_alpha08-10.png",
+    "original_image": "a9b8cbcdbf741b78f75c81a38e8b8316.png",
+    "mask_image": "6b4df22df44c3a8ec67b123d935f3004.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8562260331459398,
+    "mask_scale": 1.0329844631709202,
+    "crop_position": [
+      0.329081525796597,
+      0.5412343757237256
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 65,
+    "corrupted_image": "00065_alpha01-05.png",
+    "original_image": "ab0515ea111e89bbf3d26a32bcde3918.png",
+    "mask_image": "ef0e96d213a177ccfa2390fdbb6cf887.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.44557813719119055,
+    "mask_scale": 1.0586878090673026,
+    "crop_position": [
+      0.6494366811542086,
+      0.9289015232154045
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 65,
+    "corrupted_image": "00065_alpha05-08.png",
+    "original_image": "ab0515ea111e89bbf3d26a32bcde3918.png",
+    "mask_image": "ef0e96d213a177ccfa2390fdbb6cf887.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6814996555411859,
+    "mask_scale": 1.0586878090673026,
+    "crop_position": [
+      0.6494366811542086,
+      0.9289015232154045
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 65,
+    "corrupted_image": "00065_alpha08-10.png",
+    "original_image": "ab0515ea111e89bbf3d26a32bcde3918.png",
+    "mask_image": "ef0e96d213a177ccfa2390fdbb6cf887.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9154844596197956,
+    "mask_scale": 1.0586878090673026,
+    "crop_position": [
+      0.6494366811542086,
+      0.9289015232154045
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 66,
+    "corrupted_image": "00066_alpha01-05.png",
+    "original_image": "aea72c02a20185caf1436555af2cd4fa.png",
+    "mask_image": "ed41d8095cbfc130d1ffd5982d882da2.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3392912266166367,
+    "mask_scale": 1.0562954225548535,
+    "crop_position": [
+      0.9928051287220967,
+      0.8929735248632696
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 66,
+    "corrupted_image": "00066_alpha05-08.png",
+    "original_image": "aea72c02a20185caf1436555af2cd4fa.png",
+    "mask_image": "ed41d8095cbfc130d1ffd5982d882da2.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5251010216343553,
+    "mask_scale": 1.0562954225548535,
+    "crop_position": [
+      0.9928051287220967,
+      0.8929735248632696
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 66,
+    "corrupted_image": "00066_alpha08-10.png",
+    "original_image": "aea72c02a20185caf1436555af2cd4fa.png",
+    "mask_image": "ed41d8095cbfc130d1ffd5982d882da2.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9703304427160169,
+    "mask_scale": 1.0562954225548535,
+    "crop_position": [
+      0.9928051287220967,
+      0.8929735248632696
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 67,
+    "corrupted_image": "00067_alpha01-05.png",
+    "original_image": "b2f5e64999828297da62b63f51c0f036.png",
+    "mask_image": "ad54221cdacc143f83f38ad08fc7e29a.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2871116192184254,
+    "mask_scale": 1.0025538431854004,
+    "crop_position": [
+      0.0011591531744379324,
+      0.41759851537248394
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 67,
+    "corrupted_image": "00067_alpha05-08.png",
+    "original_image": "b2f5e64999828297da62b63f51c0f036.png",
+    "mask_image": "ad54221cdacc143f83f38ad08fc7e29a.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7439771520078838,
+    "mask_scale": 1.0025538431854004,
+    "crop_position": [
+      0.0011591531744379324,
+      0.41759851537248394
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 67,
+    "corrupted_image": "00067_alpha08-10.png",
+    "original_image": "b2f5e64999828297da62b63f51c0f036.png",
+    "mask_image": "ad54221cdacc143f83f38ad08fc7e29a.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9669091784323545,
+    "mask_scale": 1.0025538431854004,
+    "crop_position": [
+      0.0011591531744379324,
+      0.41759851537248394
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 68,
+    "corrupted_image": "00068_alpha01-05.png",
+    "original_image": "b60e7def7961341ec3491a84d93c0d86.png",
+    "mask_image": "08e6d9a041dec58cf6925978bcd11185.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3979753015839732,
+    "mask_scale": 1.0224000683282752,
+    "crop_position": [
+      0.7768016745350387,
+      0.13301685913791506
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 68,
+    "corrupted_image": "00068_alpha05-08.png",
+    "original_image": "b60e7def7961341ec3491a84d93c0d86.png",
+    "mask_image": "08e6d9a041dec58cf6925978bcd11185.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6936774617292176,
+    "mask_scale": 1.0224000683282752,
+    "crop_position": [
+      0.7768016745350387,
+      0.13301685913791506
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 68,
+    "corrupted_image": "00068_alpha08-10.png",
+    "original_image": "b60e7def7961341ec3491a84d93c0d86.png",
+    "mask_image": "08e6d9a041dec58cf6925978bcd11185.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.882425726693801,
+    "mask_scale": 1.0224000683282752,
+    "crop_position": [
+      0.7768016745350387,
+      0.13301685913791506
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 69,
+    "corrupted_image": "00069_alpha01-05.png",
+    "original_image": "b812a1b7b5c3b52315fa43c96bf091e8.png",
+    "mask_image": "fb0885f850370600f36bb9f9031d0f3d.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.26644260856422286,
+    "mask_scale": 1.0348751431306087,
+    "crop_position": [
+      0.10018853846784259,
+      0.5678733250519807
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 69,
+    "corrupted_image": "00069_alpha05-08.png",
+    "original_image": "b812a1b7b5c3b52315fa43c96bf091e8.png",
+    "mask_image": "fb0885f850370600f36bb9f9031d0f3d.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7144288657852496,
+    "mask_scale": 1.0348751431306087,
+    "crop_position": [
+      0.10018853846784259,
+      0.5678733250519807
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 69,
+    "corrupted_image": "00069_alpha08-10.png",
+    "original_image": "b812a1b7b5c3b52315fa43c96bf091e8.png",
+    "mask_image": "fb0885f850370600f36bb9f9031d0f3d.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9896766792327881,
+    "mask_scale": 1.0348751431306087,
+    "crop_position": [
+      0.10018853846784259,
+      0.5678733250519807
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 70,
+    "corrupted_image": "00070_alpha01-05.png",
+    "original_image": "ba128543d8722924fa0cff31c63a1ddf.png",
+    "mask_image": "36565d33903fadabc9c955b9975f1ea2.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.24968372451509954,
+    "mask_scale": 1.067159043384196,
+    "crop_position": [
+      0.547793805215063,
+      0.7170026434861835
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 70,
+    "corrupted_image": "00070_alpha05-08.png",
+    "original_image": "ba128543d8722924fa0cff31c63a1ddf.png",
+    "mask_image": "36565d33903fadabc9c955b9975f1ea2.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7408183475942777,
+    "mask_scale": 1.067159043384196,
+    "crop_position": [
+      0.547793805215063,
+      0.7170026434861835
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 70,
+    "corrupted_image": "00070_alpha08-10.png",
+    "original_image": "ba128543d8722924fa0cff31c63a1ddf.png",
+    "mask_image": "36565d33903fadabc9c955b9975f1ea2.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8229112979897804,
+    "mask_scale": 1.067159043384196,
+    "crop_position": [
+      0.547793805215063,
+      0.7170026434861835
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 71,
+    "corrupted_image": "00071_alpha01-05.png",
+    "original_image": "bbe9d8581d7d81235511f12594e15505.png",
+    "mask_image": "2663c88a3bc6cccdee40bb42430f6325.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.26295567543399745,
+    "mask_scale": 1.1096956976346715,
+    "crop_position": [
+      0.9493846322810986,
+      0.9574252531942677
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 71,
+    "corrupted_image": "00071_alpha05-08.png",
+    "original_image": "bbe9d8581d7d81235511f12594e15505.png",
+    "mask_image": "2663c88a3bc6cccdee40bb42430f6325.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7743939021663906,
+    "mask_scale": 1.1096956976346715,
+    "crop_position": [
+      0.9493846322810986,
+      0.9574252531942677
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 71,
+    "corrupted_image": "00071_alpha08-10.png",
+    "original_image": "bbe9d8581d7d81235511f12594e15505.png",
+    "mask_image": "2663c88a3bc6cccdee40bb42430f6325.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8466514129753031,
+    "mask_scale": 1.1096956976346715,
+    "crop_position": [
+      0.9493846322810986,
+      0.9574252531942677
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 72,
+    "corrupted_image": "00072_alpha01-05.png",
+    "original_image": "bc9306c87aeaab92428da47f0b148ffe.png",
+    "mask_image": "5b38d77dfa1fb562ea3608c24e2ffed1.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.45692878964269046,
+    "mask_scale": 1.0436676394422169,
+    "crop_position": [
+      0.9546423414213916,
+      0.5182077816969677
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 72,
+    "corrupted_image": "00072_alpha05-08.png",
+    "original_image": "bc9306c87aeaab92428da47f0b148ffe.png",
+    "mask_image": "5b38d77dfa1fb562ea3608c24e2ffed1.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6513810702353844,
+    "mask_scale": 1.0436676394422169,
+    "crop_position": [
+      0.9546423414213916,
+      0.5182077816969677
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 72,
+    "corrupted_image": "00072_alpha08-10.png",
+    "original_image": "bc9306c87aeaab92428da47f0b148ffe.png",
+    "mask_image": "5b38d77dfa1fb562ea3608c24e2ffed1.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9981490462624101,
+    "mask_scale": 1.0436676394422169,
+    "crop_position": [
+      0.9546423414213916,
+      0.5182077816969677
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 73,
+    "corrupted_image": "00073_alpha01-05.png",
+    "original_image": "c388d84d573c604149c57dece075fa3c.png",
+    "mask_image": "5caa65a2b200dc289671d0b948a115cc.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.21295823578339684,
+    "mask_scale": 1.1981158340779587,
+    "crop_position": [
+      0.4609419503566583,
+      0.6929194098789432
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 73,
+    "corrupted_image": "00073_alpha05-08.png",
+    "original_image": "c388d84d573c604149c57dece075fa3c.png",
+    "mask_image": "5caa65a2b200dc289671d0b948a115cc.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.661150989756852,
+    "mask_scale": 1.1981158340779587,
+    "crop_position": [
+      0.4609419503566583,
+      0.6929194098789432
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 73,
+    "corrupted_image": "00073_alpha08-10.png",
+    "original_image": "c388d84d573c604149c57dece075fa3c.png",
+    "mask_image": "5caa65a2b200dc289671d0b948a115cc.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9087571579579271,
+    "mask_scale": 1.1981158340779587,
+    "crop_position": [
+      0.4609419503566583,
+      0.6929194098789432
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 74,
+    "corrupted_image": "00074_alpha01-05.png",
+    "original_image": "c4e0009eba2d321d5936863c5263cc73.png",
+    "mask_image": "5910fe8ad563e361732bb61ca60f4a76.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.1964147905868479,
+    "mask_scale": 1.1813082202781429,
+    "crop_position": [
+      0.8567358567390337,
+      0.6083674272368323
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 74,
+    "corrupted_image": "00074_alpha05-08.png",
+    "original_image": "c4e0009eba2d321d5936863c5263cc73.png",
+    "mask_image": "5910fe8ad563e361732bb61ca60f4a76.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7819350443654272,
+    "mask_scale": 1.1813082202781429,
+    "crop_position": [
+      0.8567358567390337,
+      0.6083674272368323
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 74,
+    "corrupted_image": "00074_alpha08-10.png",
+    "original_image": "c4e0009eba2d321d5936863c5263cc73.png",
+    "mask_image": "5910fe8ad563e361732bb61ca60f4a76.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8191965437857662,
+    "mask_scale": 1.1813082202781429,
+    "crop_position": [
+      0.8567358567390337,
+      0.6083674272368323
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 75,
+    "corrupted_image": "00075_alpha01-05.png",
+    "original_image": "c694157a5dc9161c376b618b8ea0b975.png",
+    "mask_image": "d81949e0390596fa5755c078daaa255b.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.4945644627476151,
+    "mask_scale": 1.040133429595906,
+    "crop_position": [
+      0.7712524442074479,
+      0.6972411692613631
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 75,
+    "corrupted_image": "00075_alpha05-08.png",
+    "original_image": "c694157a5dc9161c376b618b8ea0b975.png",
+    "mask_image": "d81949e0390596fa5755c078daaa255b.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6153086741300619,
+    "mask_scale": 1.040133429595906,
+    "crop_position": [
+      0.7712524442074479,
+      0.6972411692613631
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 75,
+    "corrupted_image": "00075_alpha08-10.png",
+    "original_image": "c694157a5dc9161c376b618b8ea0b975.png",
+    "mask_image": "d81949e0390596fa5755c078daaa255b.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9626271891013141,
+    "mask_scale": 1.040133429595906,
+    "crop_position": [
+      0.7712524442074479,
+      0.6972411692613631
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 76,
+    "corrupted_image": "00076_alpha01-05.png",
+    "original_image": "c70ac052c0fc0e3ecc8eda6b3c7b0235.png",
+    "mask_image": "031ace95b1f26c2ab7aba1e21d693c2f.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.17401958437655046,
+    "mask_scale": 1.0960186342786475,
+    "crop_position": [
+      0.4008847955771935,
+      0.6598133182207786
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 76,
+    "corrupted_image": "00076_alpha05-08.png",
+    "original_image": "c70ac052c0fc0e3ecc8eda6b3c7b0235.png",
+    "mask_image": "031ace95b1f26c2ab7aba1e21d693c2f.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6749898467477919,
+    "mask_scale": 1.0960186342786475,
+    "crop_position": [
+      0.4008847955771935,
+      0.6598133182207786
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 76,
+    "corrupted_image": "00076_alpha08-10.png",
+    "original_image": "c70ac052c0fc0e3ecc8eda6b3c7b0235.png",
+    "mask_image": "031ace95b1f26c2ab7aba1e21d693c2f.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8032131205648178,
+    "mask_scale": 1.0960186342786475,
+    "crop_position": [
+      0.4008847955771935,
+      0.6598133182207786
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 77,
+    "corrupted_image": "00077_alpha01-05.png",
+    "original_image": "c75714bdf6240649c1db9dfb6434fdb2.png",
+    "mask_image": "a6761c0775dce1432a3d18dbe5c14fc6.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.28563410263372047,
+    "mask_scale": 1.1889499202675249,
+    "crop_position": [
+      0.8648131607632534,
+      0.7805196293794808
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 77,
+    "corrupted_image": "00077_alpha05-08.png",
+    "original_image": "c75714bdf6240649c1db9dfb6434fdb2.png",
+    "mask_image": "a6761c0775dce1432a3d18dbe5c14fc6.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5841385807978245,
+    "mask_scale": 1.1889499202675249,
+    "crop_position": [
+      0.8648131607632534,
+      0.7805196293794808
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 77,
+    "corrupted_image": "00077_alpha08-10.png",
+    "original_image": "c75714bdf6240649c1db9dfb6434fdb2.png",
+    "mask_image": "a6761c0775dce1432a3d18dbe5c14fc6.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9475367178848251,
+    "mask_scale": 1.1889499202675249,
+    "crop_position": [
+      0.8648131607632534,
+      0.7805196293794808
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 78,
+    "corrupted_image": "00078_alpha01-05.png",
+    "original_image": "c9102947743d8d12d60daa1efeccc50f.png",
+    "mask_image": "60bc29b4bd67e369f942f4581d23ee0f.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.44600322868198516,
+    "mask_scale": 1.1004779282992536,
+    "crop_position": [
+      0.8039595136850621,
+      0.9092916845691966
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 78,
+    "corrupted_image": "00078_alpha05-08.png",
+    "original_image": "c9102947743d8d12d60daa1efeccc50f.png",
+    "mask_image": "60bc29b4bd67e369f942f4581d23ee0f.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.764877648151499,
+    "mask_scale": 1.1004779282992536,
+    "crop_position": [
+      0.8039595136850621,
+      0.9092916845691966
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 78,
+    "corrupted_image": "00078_alpha08-10.png",
+    "original_image": "c9102947743d8d12d60daa1efeccc50f.png",
+    "mask_image": "60bc29b4bd67e369f942f4581d23ee0f.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9741959602064078,
+    "mask_scale": 1.1004779282992536,
+    "crop_position": [
+      0.8039595136850621,
+      0.9092916845691966
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 79,
+    "corrupted_image": "00079_alpha01-05.png",
+    "original_image": "ca10f1b21cc31033e02c7f3bbfd1ff25.png",
+    "mask_image": "c30df642089a612929538adde993706c.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.24582564237380577,
+    "mask_scale": 1.0276311253110801,
+    "crop_position": [
+      0.03315003105332481,
+      0.9747387319047399
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 79,
+    "corrupted_image": "00079_alpha05-08.png",
+    "original_image": "ca10f1b21cc31033e02c7f3bbfd1ff25.png",
+    "mask_image": "c30df642089a612929538adde993706c.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6162833019099385,
+    "mask_scale": 1.0276311253110801,
+    "crop_position": [
+      0.03315003105332481,
+      0.9747387319047399
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 79,
+    "corrupted_image": "00079_alpha08-10.png",
+    "original_image": "ca10f1b21cc31033e02c7f3bbfd1ff25.png",
+    "mask_image": "c30df642089a612929538adde993706c.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.868557083956279,
+    "mask_scale": 1.0276311253110801,
+    "crop_position": [
+      0.03315003105332481,
+      0.9747387319047399
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 80,
+    "corrupted_image": "00080_alpha01-05.png",
+    "original_image": "ca6e9ec8825456a90dd6e6e84c8000ce.png",
+    "mask_image": "b812a1b7b5c3b52315fa43c96bf091e8.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.24185499955446998,
+    "mask_scale": 1.1919254890450246,
+    "crop_position": [
+      0.20525510311676642,
+      0.2456231888623469
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 80,
+    "corrupted_image": "00080_alpha05-08.png",
+    "original_image": "ca6e9ec8825456a90dd6e6e84c8000ce.png",
+    "mask_image": "b812a1b7b5c3b52315fa43c96bf091e8.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6301727236579442,
+    "mask_scale": 1.1919254890450246,
+    "crop_position": [
+      0.20525510311676642,
+      0.2456231888623469
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 80,
+    "corrupted_image": "00080_alpha08-10.png",
+    "original_image": "ca6e9ec8825456a90dd6e6e84c8000ce.png",
+    "mask_image": "b812a1b7b5c3b52315fa43c96bf091e8.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8582288049665461,
+    "mask_scale": 1.1919254890450246,
+    "crop_position": [
+      0.20525510311676642,
+      0.2456231888623469
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 81,
+    "corrupted_image": "00081_alpha01-05.png",
+    "original_image": "cc90f2bf451d13441d9e8c9f34b00467.png",
+    "mask_image": "290f53a64cb883bd2e4d91641464fc9a.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.4610580972814605,
+    "mask_scale": 1.1645524779184269,
+    "crop_position": [
+      0.4123351044111174,
+      0.9893789482036439
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 81,
+    "corrupted_image": "00081_alpha05-08.png",
+    "original_image": "cc90f2bf451d13441d9e8c9f34b00467.png",
+    "mask_image": "290f53a64cb883bd2e4d91641464fc9a.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6247225942989005,
+    "mask_scale": 1.1645524779184269,
+    "crop_position": [
+      0.4123351044111174,
+      0.9893789482036439
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 81,
+    "corrupted_image": "00081_alpha08-10.png",
+    "original_image": "cc90f2bf451d13441d9e8c9f34b00467.png",
+    "mask_image": "290f53a64cb883bd2e4d91641464fc9a.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9726281074326095,
+    "mask_scale": 1.1645524779184269,
+    "crop_position": [
+      0.4123351044111174,
+      0.9893789482036439
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 82,
+    "corrupted_image": "00082_alpha01-05.png",
+    "original_image": "cd669bfe4529192b901c3852cd63cb94.png",
+    "mask_image": "382a1bf1ab11e19b69e2951a73cccb93.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.10838024734522628,
+    "mask_scale": 1.0841092613875856,
+    "crop_position": [
+      0.49976325502892305,
+      0.6319026772052497
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 82,
+    "corrupted_image": "00082_alpha05-08.png",
+    "original_image": "cd669bfe4529192b901c3852cd63cb94.png",
+    "mask_image": "382a1bf1ab11e19b69e2951a73cccb93.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7762299093996569,
+    "mask_scale": 1.0841092613875856,
+    "crop_position": [
+      0.49976325502892305,
+      0.6319026772052497
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 82,
+    "corrupted_image": "00082_alpha08-10.png",
+    "original_image": "cd669bfe4529192b901c3852cd63cb94.png",
+    "mask_image": "382a1bf1ab11e19b69e2951a73cccb93.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9609288047664496,
+    "mask_scale": 1.0841092613875856,
+    "crop_position": [
+      0.49976325502892305,
+      0.6319026772052497
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 83,
+    "corrupted_image": "00083_alpha01-05.png",
+    "original_image": "dbe251485cec6cbdc5a5b3f4d277db79.png",
+    "mask_image": "252224aad396120e301f35cda23bc674.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.44391553985038845,
+    "mask_scale": 1.0940370069120662,
+    "crop_position": [
+      0.06312429498216365,
+      0.14871360350440743
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 83,
+    "corrupted_image": "00083_alpha05-08.png",
+    "original_image": "dbe251485cec6cbdc5a5b3f4d277db79.png",
+    "mask_image": "252224aad396120e301f35cda23bc674.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6703631965880171,
+    "mask_scale": 1.0940370069120662,
+    "crop_position": [
+      0.06312429498216365,
+      0.14871360350440743
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 83,
+    "corrupted_image": "00083_alpha08-10.png",
+    "original_image": "dbe251485cec6cbdc5a5b3f4d277db79.png",
+    "mask_image": "252224aad396120e301f35cda23bc674.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8539738373254635,
+    "mask_scale": 1.0940370069120662,
+    "crop_position": [
+      0.06312429498216365,
+      0.14871360350440743
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 84,
+    "corrupted_image": "00084_alpha01-05.png",
+    "original_image": "de5091cf48b7bccaf33eba88fdd59051.png",
+    "mask_image": "1dac8ef34ebf1592186e64c78ebaa492.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.44594541168140145,
+    "mask_scale": 1.1509771084678388,
+    "crop_position": [
+      0.32144782810200323,
+      0.7153418421975263
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 84,
+    "corrupted_image": "00084_alpha05-08.png",
+    "original_image": "de5091cf48b7bccaf33eba88fdd59051.png",
+    "mask_image": "1dac8ef34ebf1592186e64c78ebaa492.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6989082606802797,
+    "mask_scale": 1.1509771084678388,
+    "crop_position": [
+      0.32144782810200323,
+      0.7153418421975263
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 84,
+    "corrupted_image": "00084_alpha08-10.png",
+    "original_image": "de5091cf48b7bccaf33eba88fdd59051.png",
+    "mask_image": "1dac8ef34ebf1592186e64c78ebaa492.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8796280058560622,
+    "mask_scale": 1.1509771084678388,
+    "crop_position": [
+      0.32144782810200323,
+      0.7153418421975263
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 85,
+    "corrupted_image": "00085_alpha01-05.png",
+    "original_image": "e03d6f6d68c2987a32d6c91f2a189170.png",
+    "mask_image": "52e3d9dd86a710d4d074ee28a4425526.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.4971657523500128,
+    "mask_scale": 1.1015343493998804,
+    "crop_position": [
+      0.8705786216119591,
+      0.012340422551446517
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 85,
+    "corrupted_image": "00085_alpha05-08.png",
+    "original_image": "e03d6f6d68c2987a32d6c91f2a189170.png",
+    "mask_image": "52e3d9dd86a710d4d074ee28a4425526.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7420543949005798,
+    "mask_scale": 1.1015343493998804,
+    "crop_position": [
+      0.8705786216119591,
+      0.012340422551446517
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 85,
+    "corrupted_image": "00085_alpha08-10.png",
+    "original_image": "e03d6f6d68c2987a32d6c91f2a189170.png",
+    "mask_image": "52e3d9dd86a710d4d074ee28a4425526.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8208997378857283,
+    "mask_scale": 1.1015343493998804,
+    "crop_position": [
+      0.8705786216119591,
+      0.012340422551446517
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 86,
+    "corrupted_image": "00086_alpha01-05.png",
+    "original_image": "e42d5ce364b1e7224f401fe138024aeb.png",
+    "mask_image": "f9c5b03478ffa08aeefe251f7b0a5e13.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.29431963995088106,
+    "mask_scale": 1.0689628110512204,
+    "crop_position": [
+      0.1288108754353341,
+      0.7104193401663541
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 86,
+    "corrupted_image": "00086_alpha05-08.png",
+    "original_image": "e42d5ce364b1e7224f401fe138024aeb.png",
+    "mask_image": "f9c5b03478ffa08aeefe251f7b0a5e13.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6579085772341001,
+    "mask_scale": 1.0689628110512204,
+    "crop_position": [
+      0.1288108754353341,
+      0.7104193401663541
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 86,
+    "corrupted_image": "00086_alpha08-10.png",
+    "original_image": "e42d5ce364b1e7224f401fe138024aeb.png",
+    "mask_image": "f9c5b03478ffa08aeefe251f7b0a5e13.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9740492975197139,
+    "mask_scale": 1.0689628110512204,
+    "crop_position": [
+      0.1288108754353341,
+      0.7104193401663541
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 87,
+    "corrupted_image": "00087_alpha01-05.png",
+    "original_image": "e7333ddc5feaf8d5202a0176b0f20d20.png",
+    "mask_image": "e257343a44dd2b68d063ba3ba805a53b.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.47620904539635045,
+    "mask_scale": 1.0352359580487323,
+    "crop_position": [
+      0.6317286420683217,
+      0.5957569649589004
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 87,
+    "corrupted_image": "00087_alpha05-08.png",
+    "original_image": "e7333ddc5feaf8d5202a0176b0f20d20.png",
+    "mask_image": "e257343a44dd2b68d063ba3ba805a53b.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6239060254130662,
+    "mask_scale": 1.0352359580487323,
+    "crop_position": [
+      0.6317286420683217,
+      0.5957569649589004
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 87,
+    "corrupted_image": "00087_alpha08-10.png",
+    "original_image": "e7333ddc5feaf8d5202a0176b0f20d20.png",
+    "mask_image": "e257343a44dd2b68d063ba3ba805a53b.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8789882486946533,
+    "mask_scale": 1.0352359580487323,
+    "crop_position": [
+      0.6317286420683217,
+      0.5957569649589004
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 88,
+    "corrupted_image": "00088_alpha01-05.png",
+    "original_image": "ea9d359a651272c917bef836b2e45e86.png",
+    "mask_image": "ba178801ae5872991528aeb9ebfa6d13.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.16590433367369045,
+    "mask_scale": 1.0410743851883062,
+    "crop_position": [
+      0.8611419655688235,
+      0.9814424242248617
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 88,
+    "corrupted_image": "00088_alpha05-08.png",
+    "original_image": "ea9d359a651272c917bef836b2e45e86.png",
+    "mask_image": "ba178801ae5872991528aeb9ebfa6d13.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7714389919358524,
+    "mask_scale": 1.0410743851883062,
+    "crop_position": [
+      0.8611419655688235,
+      0.9814424242248617
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 88,
+    "corrupted_image": "00088_alpha08-10.png",
+    "original_image": "ea9d359a651272c917bef836b2e45e86.png",
+    "mask_image": "ba178801ae5872991528aeb9ebfa6d13.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8433342438385528,
+    "mask_scale": 1.0410743851883062,
+    "crop_position": [
+      0.8611419655688235,
+      0.9814424242248617
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 89,
+    "corrupted_image": "00089_alpha01-05.png",
+    "original_image": "ec218beec3999b833b51473e98b57558.png",
+    "mask_image": "d0791108a49d0b6ee553738b9f769d07.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.23400287445017556,
+    "mask_scale": 1.116870694794811,
+    "crop_position": [
+      0.5458459402954318,
+      0.005519938087785281
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 89,
+    "corrupted_image": "00089_alpha05-08.png",
+    "original_image": "ec218beec3999b833b51473e98b57558.png",
+    "mask_image": "d0791108a49d0b6ee553738b9f769d07.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5863471678261929,
+    "mask_scale": 1.116870694794811,
+    "crop_position": [
+      0.5458459402954318,
+      0.005519938087785281
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 89,
+    "corrupted_image": "00089_alpha08-10.png",
+    "original_image": "ec218beec3999b833b51473e98b57558.png",
+    "mask_image": "d0791108a49d0b6ee553738b9f769d07.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9931579466329434,
+    "mask_scale": 1.116870694794811,
+    "crop_position": [
+      0.5458459402954318,
+      0.005519938087785281
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 90,
+    "corrupted_image": "00090_alpha01-05.png",
+    "original_image": "eeb0e3f5589f369c1d9eb02058aecb26.png",
+    "mask_image": "65de4837f0919ee2144ccd75332a0be4.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.1820806805887114,
+    "mask_scale": 1.013643063862391,
+    "crop_position": [
+      0.17878052985439152,
+      0.31543626123158996
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 90,
+    "corrupted_image": "00090_alpha05-08.png",
+    "original_image": "eeb0e3f5589f369c1d9eb02058aecb26.png",
+    "mask_image": "65de4837f0919ee2144ccd75332a0be4.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7027873803265063,
+    "mask_scale": 1.013643063862391,
+    "crop_position": [
+      0.17878052985439152,
+      0.31543626123158996
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 90,
+    "corrupted_image": "00090_alpha08-10.png",
+    "original_image": "eeb0e3f5589f369c1d9eb02058aecb26.png",
+    "mask_image": "65de4837f0919ee2144ccd75332a0be4.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9107715269477022,
+    "mask_scale": 1.013643063862391,
+    "crop_position": [
+      0.17878052985439152,
+      0.31543626123158996
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 91,
+    "corrupted_image": "00091_alpha01-05.png",
+    "original_image": "f109a308c326963c2373abd33fcb7d61.png",
+    "mask_image": "7dcbd7cc992b5dc3cbf1d1ac19a356b6.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.2097911330865983,
+    "mask_scale": 1.0540284249821377,
+    "crop_position": [
+      0.5202106310162454,
+      0.7907211412485154
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 91,
+    "corrupted_image": "00091_alpha05-08.png",
+    "original_image": "f109a308c326963c2373abd33fcb7d61.png",
+    "mask_image": "7dcbd7cc992b5dc3cbf1d1ac19a356b6.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6258476361364322,
+    "mask_scale": 1.0540284249821377,
+    "crop_position": [
+      0.5202106310162454,
+      0.7907211412485154
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 91,
+    "corrupted_image": "00091_alpha08-10.png",
+    "original_image": "f109a308c326963c2373abd33fcb7d61.png",
+    "mask_image": "7dcbd7cc992b5dc3cbf1d1ac19a356b6.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9220062140094822,
+    "mask_scale": 1.0540284249821377,
+    "crop_position": [
+      0.5202106310162454,
+      0.7907211412485154
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 92,
+    "corrupted_image": "00092_alpha01-05.png",
+    "original_image": "f37f790fb4f86042402c30b9880f8f73.png",
+    "mask_image": "1f12913fe160f25fef0a29c498bb53f4.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.37634418951105897,
+    "mask_scale": 1.1981611379723254,
+    "crop_position": [
+      0.24787978336171468,
+      0.9108975354845276
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 92,
+    "corrupted_image": "00092_alpha05-08.png",
+    "original_image": "f37f790fb4f86042402c30b9880f8f73.png",
+    "mask_image": "1f12913fe160f25fef0a29c498bb53f4.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5156301554844039,
+    "mask_scale": 1.1981611379723254,
+    "crop_position": [
+      0.24787978336171468,
+      0.9108975354845276
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 92,
+    "corrupted_image": "00092_alpha08-10.png",
+    "original_image": "f37f790fb4f86042402c30b9880f8f73.png",
+    "mask_image": "1f12913fe160f25fef0a29c498bb53f4.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9625476067602978,
+    "mask_scale": 1.1981611379723254,
+    "crop_position": [
+      0.24787978336171468,
+      0.9108975354845276
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 93,
+    "corrupted_image": "00093_alpha01-05.png",
+    "original_image": "f53cbc406f80a1c98c3bed4becd3e909.png",
+    "mask_image": "031ace95b1f26c2ab7aba1e21d693c2f.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.45764177267116013,
+    "mask_scale": 1.0480029757372018,
+    "crop_position": [
+      0.7280652665052197,
+      0.7437868754489494
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 93,
+    "corrupted_image": "00093_alpha05-08.png",
+    "original_image": "f53cbc406f80a1c98c3bed4becd3e909.png",
+    "mask_image": "031ace95b1f26c2ab7aba1e21d693c2f.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7636430437300847,
+    "mask_scale": 1.0480029757372018,
+    "crop_position": [
+      0.7280652665052197,
+      0.7437868754489494
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 93,
+    "corrupted_image": "00093_alpha08-10.png",
+    "original_image": "f53cbc406f80a1c98c3bed4becd3e909.png",
+    "mask_image": "031ace95b1f26c2ab7aba1e21d693c2f.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.835238032723574,
+    "mask_scale": 1.0480029757372018,
+    "crop_position": [
+      0.7280652665052197,
+      0.7437868754489494
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 94,
+    "corrupted_image": "00094_alpha01-05.png",
+    "original_image": "f8c204c5f5ccd5b9a73812b184760ce9.png",
+    "mask_image": "51f1f685c3c6c0294e9b261248b8aa56.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.49680886303275207,
+    "mask_scale": 1.0834430796580898,
+    "crop_position": [
+      0.7896095526348531,
+      0.14817968267428305
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 94,
+    "corrupted_image": "00094_alpha05-08.png",
+    "original_image": "f8c204c5f5ccd5b9a73812b184760ce9.png",
+    "mask_image": "51f1f685c3c6c0294e9b261248b8aa56.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7339372310503702,
+    "mask_scale": 1.0834430796580898,
+    "crop_position": [
+      0.7896095526348531,
+      0.14817968267428305
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 94,
+    "corrupted_image": "00094_alpha08-10.png",
+    "original_image": "f8c204c5f5ccd5b9a73812b184760ce9.png",
+    "mask_image": "51f1f685c3c6c0294e9b261248b8aa56.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9861157613707836,
+    "mask_scale": 1.0834430796580898,
+    "crop_position": [
+      0.7896095526348531,
+      0.14817968267428305
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 95,
+    "corrupted_image": "00095_alpha01-05.png",
+    "original_image": "f9c5b03478ffa08aeefe251f7b0a5e13.png",
+    "mask_image": "11da8c45dba5c805d6ecdd8a27ed1a80.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.1938215225515752,
+    "mask_scale": 1.0401167298445586,
+    "crop_position": [
+      0.5739360122333941,
+      0.7716466576374894
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 95,
+    "corrupted_image": "00095_alpha05-08.png",
+    "original_image": "f9c5b03478ffa08aeefe251f7b0a5e13.png",
+    "mask_image": "11da8c45dba5c805d6ecdd8a27ed1a80.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5381849087449392,
+    "mask_scale": 1.0401167298445586,
+    "crop_position": [
+      0.5739360122333941,
+      0.7716466576374894
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 95,
+    "corrupted_image": "00095_alpha08-10.png",
+    "original_image": "f9c5b03478ffa08aeefe251f7b0a5e13.png",
+    "mask_image": "11da8c45dba5c805d6ecdd8a27ed1a80.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9423509412250487,
+    "mask_scale": 1.0401167298445586,
+    "crop_position": [
+      0.5739360122333941,
+      0.7716466576374894
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 96,
+    "corrupted_image": "00096_alpha01-05.png",
+    "original_image": "fa2f12e9129085e0891738d5326f6a05.png",
+    "mask_image": "751da9104f717cd79431af13bebb4ad2.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.11141715397205793,
+    "mask_scale": 1.0366932610185493,
+    "crop_position": [
+      0.5378524790792852,
+      0.167605159310249
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 96,
+    "corrupted_image": "00096_alpha05-08.png",
+    "original_image": "fa2f12e9129085e0891738d5326f6a05.png",
+    "mask_image": "751da9104f717cd79431af13bebb4ad2.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.5157873972142988,
+    "mask_scale": 1.0366932610185493,
+    "crop_position": [
+      0.5378524790792852,
+      0.167605159310249
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 96,
+    "corrupted_image": "00096_alpha08-10.png",
+    "original_image": "fa2f12e9129085e0891738d5326f6a05.png",
+    "mask_image": "751da9104f717cd79431af13bebb4ad2.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.9304310528544852,
+    "mask_scale": 1.0366932610185493,
+    "crop_position": [
+      0.5378524790792852,
+      0.167605159310249
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 97,
+    "corrupted_image": "00097_alpha01-05.png",
+    "original_image": "fbe17bb21594e5f3b8061dfb58107359.png",
+    "mask_image": "91bbbedd98ae7880671ca198973476c2.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.19840535271207474,
+    "mask_scale": 1.019694883846205,
+    "crop_position": [
+      0.12288421240875724,
+      0.12008459703287189
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 97,
+    "corrupted_image": "00097_alpha05-08.png",
+    "original_image": "fbe17bb21594e5f3b8061dfb58107359.png",
+    "mask_image": "91bbbedd98ae7880671ca198973476c2.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6897076761840498,
+    "mask_scale": 1.019694883846205,
+    "crop_position": [
+      0.12288421240875724,
+      0.12008459703287189
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 97,
+    "corrupted_image": "00097_alpha08-10.png",
+    "original_image": "fbe17bb21594e5f3b8061dfb58107359.png",
+    "mask_image": "91bbbedd98ae7880671ca198973476c2.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8407016299737751,
+    "mask_scale": 1.019694883846205,
+    "crop_position": [
+      0.12288421240875724,
+      0.12008459703287189
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 98,
+    "corrupted_image": "00098_alpha01-05.png",
+    "original_image": "fe6c0413e6833ac7bd9eff66d8e213f3.png",
+    "mask_image": "32320c548969dfb0498ddf9e26559cfa.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3985193246423038,
+    "mask_scale": 1.0526017382666835,
+    "crop_position": [
+      0.18943609664666794,
+      0.04262621911134301
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 98,
+    "corrupted_image": "00098_alpha05-08.png",
+    "original_image": "fe6c0413e6833ac7bd9eff66d8e213f3.png",
+    "mask_image": "32320c548969dfb0498ddf9e26559cfa.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.6527309413118392,
+    "mask_scale": 1.0526017382666835,
+    "crop_position": [
+      0.18943609664666794,
+      0.04262621911134301
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 98,
+    "corrupted_image": "00098_alpha08-10.png",
+    "original_image": "fe6c0413e6833ac7bd9eff66d8e213f3.png",
+    "mask_image": "32320c548969dfb0498ddf9e26559cfa.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8774706475304963,
+    "mask_scale": 1.0526017382666835,
+    "crop_position": [
+      0.18943609664666794,
+      0.04262621911134301
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 99,
+    "corrupted_image": "00099_alpha01-05.png",
+    "original_image": "ff6e07ffcf077e8b7e08251b09afa259.png",
+    "mask_image": "059ced97d540a4875d78c8bf497b74aa.png",
+    "alpha_range": [
+      0.1,
+      0.5
+    ],
+    "strength": 0.3654697729583277,
+    "mask_scale": 1.0383503447147144,
+    "crop_position": [
+      0.8329288490660991,
+      0.8474084683858536
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 99,
+    "corrupted_image": "00099_alpha05-08.png",
+    "original_image": "ff6e07ffcf077e8b7e08251b09afa259.png",
+    "mask_image": "059ced97d540a4875d78c8bf497b74aa.png",
+    "alpha_range": [
+      0.5,
+      0.8
+    ],
+    "strength": 0.7974425932456268,
+    "mask_scale": 1.0383503447147144,
+    "crop_position": [
+      0.8329288490660991,
+      0.8474084683858536
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": 99,
+    "corrupted_image": "00099_alpha08-10.png",
+    "original_image": "ff6e07ffcf077e8b7e08251b09afa259.png",
+    "mask_image": "059ced97d540a4875d78c8bf497b74aa.png",
+    "alpha_range": [
+      0.8,
+      1.0
+    ],
+    "strength": 0.8580881149687969,
+    "mask_scale": 1.0383503447147144,
+    "crop_position": [
+      0.8329288490660991,
+      0.8474084683858536
+    ],
+    "image_size": [
+      512,
+      512
+    ]
+  }
+]
