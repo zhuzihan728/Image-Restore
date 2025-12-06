@@ -4,6 +4,10 @@
 
 ### new data
 - Created dataset: [./test_data/metadata.json](./test_data/metadata.json)
+  - alpha ranges [0.1-0.5, 0.5-0.8, 0.8-1.0]
+  - mask random scale [1.0-1.2]
+  - mask random crop
+  - size: 3x100 = 300 images (3 alpha ranges, other parameters fixed)
 - Script: [./image_gen.ipynb](./image_gen.ipynb)
 - Visual: <br>
   <img src="./assets/corrupted_data.png" width=70%>
