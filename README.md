@@ -14,6 +14,35 @@
 
 ### eval results
 - Script: [./restormer_eval.ipynb](./restormer_eval.ipynb)
+- Metrics (不确定对不对）：
+    ```python
+
+
+          def rgb_to_y(self, img):
+              """Convert RGB to Y channel - matches MATLAB rgb2ycbcr"""
+              from skimage.color import rgb2ycbcr
+              img_ycbcr = rgb2ycbcr(img)  # Expects float [0,1] or uint8 [0,255]
+              return img_ycbcr[:, :, 0]
+
+
+          from skimage.metrics import peak_signal_noise_ratio, structural_similarity
+          from skimage import img_as_ubyte
+                # Convert to numpy
+                restored_np = restored.permute(0, 2, 3, 1).cpu().detach().numpy()
+                restored_np = img_as_ubyte(restored_np[0])
+
+                # Calculate RGB metrics
+                psnr_rgb = peak_signal_noise_ratio(original_np, restored_np, data_range=255)
+                ssim_rgb = structural_similarity(original_np, restored_np, channel_axis=2, data_range=255)
+                mae = np.mean(np.abs(original_np.astype(float) - restored_np.astype(float)))
+                mse = np.mean((original_np.astype(float) - restored_np.astype(float)) ** 2)
+
+                # Calculate Y channel metrics
+                original_y = self.rgb_to_y(original_np)
+                restored_y = self.rgb_to_y(restored_np)
+                psnr_y = peak_signal_noise_ratio(original_y, restored_y, data_range=255)
+                ssim_y = structural_similarity(original_y, restored_y, data_range=255)
+    ```
 - Table ([./assets/table.tex](./assets/table.tex)): <br>
   <img src="./assets/table.png" width=90%>
 - Visual: <br>
