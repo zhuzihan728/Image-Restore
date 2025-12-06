@@ -1,0 +1,54 @@
+%% Short data paper template
+%% Created by Simon Hengchen and Nilo Pedrazzini for the Journal of Open Humanities Data (https://openhumanitiesdata.metajnl.com)
+
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{adjustbox}
+\def\thesection{\alph{section}}
+
+\begin{document}
+
+\begin{table}[]
+\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{lllllll|llllll|llllll|llllll}
+\hline
+Model & \multicolumn{6}{c|}{$\alpha \in [0.1, 0.5]$} & \multicolumn{6}{c|}{$\alpha \in [0.5, 0.8]$} & \multicolumn{6}{c|}{$\alpha \in [0.8, 1.0]$} & \multicolumn{6}{c@{}}{Overall} \\ 
+\hline
+& PSNR$\uparrow$ & SSIM$\uparrow$ & PSNR(Y)$\uparrow$ & SSIM(Y)$\uparrow$ & MAE$\downarrow$ & MSE$\downarrow$ 
+& PSNR$\uparrow$ & SSIM$\uparrow$ & PSNR(Y)$\uparrow$ & SSIM(Y)$\uparrow$ & MAE$\downarrow$ & MSE$\downarrow$ 
+& PSNR$\uparrow$ & SSIM$\uparrow$ & PSNR(Y)$\uparrow$ & SSIM(Y)$\uparrow$ & MAE$\downarrow$ & MSE$\downarrow$ 
+& PSNR$\uparrow$ & SSIM$\uparrow$ & PSNR(Y)$\uparrow$ & SSIM(Y)$\uparrow$ & MAE$\downarrow$ & MSE$\downarrow$ \\ 
+\hline
+Restormer$^1$ & 20.55 & 0.83 & 22.24 & 0.87 & 21.50 & 764.46 
+& 13.83 & 0.67 & 15.47 & 0.72 & 46.67 & 3331.61 
+& 11.09 & 0.55 & 12.73 & 0.61 & 64.07 & 6237.25 
+& 15.15 & 0.69 & 16.81 & 0.73 & 44.08 & 3444.44 \\
+Restormer$^2$ & 18.64 & 0.81 & 20.12 & 0.84 & 27.51 & 1119.82 
+& 12.98 & 0.65 & 14.56 & 0.70 & 52.05 & 3938.93 
+& 10.59 & 0.55 & 12.20 & 0.60 & 68.05 & 6741.60 
+& 14.07 & 0.67 & 15.63 & 0.71 & 49.20 & 3933.45 \\
+Restormer$^3$ & 21.42 & \textbf{0.90} & 23.05 & \textbf{0.93} & 20.44 & 690.01 
+& 13.96 & \textbf{0.73} & 15.60 & \textbf{0.78} & 46.20 & 3269.63 
+& 11.13 & \textbf{0.60} & 12.77 & \textbf{0.65} & 63.80 & 6223.40 
+& 15.50 & \textbf{0.75} & 17.14 & \textbf{0.79} & 43.48 & 3394.35 \\
+Restormer$^4$ & \textbf{22.36} & 0.90 & \textbf{24.02} & 0.93 & \textbf{18.54} & \textbf{605.12} 
+& \textbf{14.46} & 0.73 & \textbf{16.11} & 0.77 & \textbf{43.68} & \textbf{3032.49} 
+& \textbf{11.48} & 0.60 & \textbf{13.13} & 0.65 & \textbf{61.30} & \textbf{5889.86} 
+& \textbf{16.10} & 0.74 & \textbf{17.76} & 0.78 & \textbf{41.17} & \textbf{3175.82} \\ 
+\hline
+\end{tabular}
+
+ \end{adjustbox}
+ \caption{\footnotesize Restormer$^1$ (Real Denoising), Restormer$^2$ (Single Image Defocus Deblurring), Restormer$^3$ (Motion Deblurring), and Restormer$^4$ (Deraining). PSNR and SSIM scores calculated on both RGB channels (first two columns in each alpha range) and the Y channel in YCbCr color space (second two columns in each alpha range). Each alpha range contains 100 test samples, with 300 samples in total.}
+\end{table}
+
+
+
+
+
+
+\end{document}
