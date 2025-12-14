@@ -1,6 +1,12 @@
 ### intro
+#### Restormer
 - Repo for evalute paper: [Restormer: Efficient Transformer for High-Resolution Image Restoratio](https://arxiv.org/abs/2111.09881).
 - Code adapted from [author released notebook](https://colab.research.google.com/drive/1C2818h7KnjNv4R1sabe14_AYL7lWhmu6?usp=sharing).
+#### OneRestore
+- Repo for evalute paper: [OneRestore: A Universal Restoration Framework for Composite Degradation](https://github.com/gy65896/OneRestore)
+
+#### DehaveFormer
+- Repo for evalute paper: [Vision Transformers for Single Image Dehazing](https://github.com/IDKiro/DehazeFormer)
 
 ### new data
 - Created dataset: [./test_data/metadata.json](./test_data/metadata.json)
@@ -44,6 +50,6 @@
                 ssim_y = structural_similarity(original_y, restored_y, data_range=255)
     ```
 - Table ([./assets/table.tex](./assets/table.tex)): <br>
-  <img src="./assets/table.png" width=90%>
+  <img src="./assets/table2.jpeg" width=100%>
 - Visual: <br>
-  <img src="./assets/eval_comparison.png" width=70%>
+  
