@@ -1,6 +1,5 @@
 %% Short data paper template
 %% Created by Simon Hengchen and Nilo Pedrazzini for the Journal of Open Humanities Data (https://openhumanitiesdata.metajnl.com)
-
 \documentclass[11pt]{article}
 \usepackage[margin=1in]{geometry}
 \usepackage[english]{babel}
@@ -9,14 +8,12 @@
 \usepackage{multirow}
 \usepackage{adjustbox}
 \def\thesection{\alph{section}}
-
 \begin{document}
-
 \begin{table}[]
 \begin{adjustbox}{width=\textwidth}
 \begin{tabular}{lllllll|llllll|llllll|llllll}
 \hline
-Model & \multicolumn{6}{c|}{$\alpha \in [0.1, 0.5]$} & \multicolumn{6}{c|}{$\alpha \in [0.5, 0.8]$} & \multicolumn{6}{c|}{$\alpha \in [0.8, 1.0]$} & \multicolumn{6}{c@{}}{Overall} \\ 
+Model & \multicolumn{6}{c|}{$\alpha \in [0.1, 0.5]$}& \multicolumn{6}{c|}{$\alpha \in [0.5, 0.8]$}& \multicolumn{6}{c|}{$\alpha \in [0.8, 1.0]$}& \multicolumn{6}{c@{}}{Overall} \\ 
 \hline
 & PSNR$\uparrow$ & SSIM$\uparrow$ & PSNR(Y)$\uparrow$ & SSIM(Y)$\uparrow$ & MAE$\downarrow$ & MSE$\downarrow$ 
 & PSNR$\uparrow$ & SSIM$\uparrow$ & PSNR(Y)$\uparrow$ & SSIM(Y)$\uparrow$ & MAE$\downarrow$ & MSE$\downarrow$ 
@@ -31,24 +28,47 @@ Restormer$^2$ & 18.64 & 0.81 & 20.12 & 0.84 & 27.51 & 1119.82
 & 12.98 & 0.65 & 14.56 & 0.70 & 52.05 & 3938.93 
 & 10.59 & 0.55 & 12.20 & 0.60 & 68.05 & 6741.60 
 & 14.07 & 0.67 & 15.63 & 0.71 & 49.20 & 3933.45 \\
-Restormer$^3$ & 21.42 & \textbf{0.90} & 23.05 & \textbf{0.93} & 20.44 & 690.01 
-& 13.96 & \textbf{0.73} & 15.60 & \textbf{0.78} & 46.20 & 3269.63 
-& 11.13 & \textbf{0.60} & 12.77 & \textbf{0.65} & 63.80 & 6223.40 
-& 15.50 & \textbf{0.75} & 17.14 & \textbf{0.79} & 43.48 & 3394.35 \\
-Restormer$^4$ & \textbf{22.36} & 0.90 & \textbf{24.02} & 0.93 & \textbf{18.54} & \textbf{605.12} 
-& \textbf{14.46} & 0.73 & \textbf{16.11} & 0.77 & \textbf{43.68} & \textbf{3032.49} 
-& \textbf{11.48} & 0.60 & \textbf{13.13} & 0.65 & \textbf{61.30} & \textbf{5889.86} 
-& \textbf{16.10} & 0.74 & \textbf{17.76} & 0.78 & \textbf{41.17} & \textbf{3175.82} \\ 
+Restormer$^3$ & 21.42 & 0.90 & 23.05 & 0.93 & 20.44 & 690.01 
+& 13.96 & 0.73 & 15.60 & 0.78 & 46.20 & 3269.63 
+& 11.13 & 0.60 & 12.77 & 0.65 & 63.80 & 6223.40 
+& 15.50 & 0.75 & 17.14 & 0.79 & 43.48 & 3394.35 \\
+Restormer$^4$ & 22.36 & 0.90 & 24.02 & 0.93 & 18.54 & 605.12 
+& 14.46 & 0.73 & 16.11 & 0.77 & 43.68 & 3032.49 
+& 11.48 & 0.60 & 13.13 & 0.65 & 61.30 & 5889.86 
+& 16.10 & 0.75 & 17.76 & 0.78 & 41.17 & 3175.82 \\ 
+\hline
+OneRestore$^5$ & 22.23 & 0.89 & 23.79 & 0.91 & 20.79 & 916.44 
+& 16.33 & 0.76 & 17.90 & 0.80 & 36.57 & 2365.58 
+& 13.17 & 0.65 & 14.76 & 0.69 & 51.26 & 4696.99 
+& 17.25 & 0.76 & 18.82 & 0.80 & 36.21 & 2659.67 \\
+OneRestore$^6$ & 21.64 & 0.91 & 23.27 & 0.93 & 20.08 & 672.61 
+& 14.30 & 0.74 & 15.92 & 0.78 & 44.77 & 3095.58 
+& 11.49 & 0.61 & 13.11 & 0.66 & 61.53 & 5877.45 
+& 15.81 & 0.75 & 17.43 & 0.79 & 42.13 & 3215.21 \\
+OneRestore$^7$ & 21.66 & 0.91 & 23.29 & 0.93 & 20.04 & 670.76 
+& 14.31 & 0.74 & 15.93 & 0.78 & 44.70 & 3088.52 
+& 11.50 & 0.61 & 13.12 & 0.66 & 61.48 & 5870.92 
+& 15.82 & 0.75 & 17.45 & 0.79 & 42.07 & 3210.07 \\
+\hline
+DehazeFormer-b$^8$ & 25.93 & \textbf{0.93} & 27.61 & 0.94 & 11.42 & 261.60 
+& \textbf{19.12} & \textbf{0.79} & \textbf{20.77} & \textbf{0.82} & \textbf{24.77} & \textbf{1315.83} 
+& \textbf{14.56} & \textbf{0.65} & \textbf{16.19} & \textbf{0.69} & \textbf{42.32} & \textbf{3644.16} 
+& \textbf{19.87} & \textbf{0.79} & \textbf{21.52} & \textbf{0.82} & \textbf{26.17} & \textbf{1740.53} \\
+DehazeFormer-b$^9$ & 26.38 &  0.93 & 28.21 & \textbf{0.95} & 12.07 & 329.15 
+& 16.93 & 0.76 & 18.57 & 0.80 & 34.16 & 2196.57 
+& 13.08 & 0.64 & 14.71 & 0.68 & 52.05 & 4870.11 
+& 18.80 & 0.78 & 20.50 & 0.81 & 32.76 & 2465.27 \\
+DehazeFormer-b$^{10}$ & 20.46 & 0.87 & 22.33 & 0.90 & 21.10 & 793.30 
+& 15.17 & 0.72 & 16.77 & 0.77 & 39.45 & 2450.34 
+& 13.16 & 0.61 & 14.75 & 0.67 & 49.52 & 3838.71 
+& 16.26 & 0.74 & 17.95 & 0.78 & 36.69 & 2360.78 \\
+DehazeFormer-b$^{11}$ & \textbf{26.63} & 0.93 & \textbf{28.31} & 0.94 & \textbf{11.12} & \textbf{267.47} 
+& 17.53 & 0.77 & 19.14 & 0.81 & 31.09 & 1809.58 
+& 13.37 & 0.64 & 14.98 & 0.68 & 49.52 & 4451.65 
+& 19.18 & 0.78 & 20.81 & 0.81 & 30.58 & 2176.23 \\
 \hline
 \end{tabular}
-
  \end{adjustbox}
- \caption{\footnotesize Restormer$^1$ (Real Denoising), Restormer$^2$ (Single Image Defocus Deblurring), Restormer$^3$ (Motion Deblurring), and Restormer$^4$ (Deraining). PSNR and SSIM scores calculated on both RGB channels (first two columns in each alpha range) and the Y channel in YCbCr color space (second two columns in each alpha range). Each alpha range contains 100 test samples, with 300 samples in total.}
+ \caption{\footnotesize Restormer$^1$ (Real Denoising), Restormer$^2$ (Single Image Defocus Deblurring), Restormer$^3$ (Motion Deblurring), Restormer$^4$ (Deraining), OneRestore$^5$ (CDD-11), OneRestore$^6$ (snow100k), OneRestore$^7$ (snow100k, prompt=snow), DehazeFormer-b$^8$ (ITS), DehazeFormer-b$^9$ (OTS), DehazeFormer-b$^{10}$ (RS-Haze), DehazeFormer-b$^{11}$ (RESIDE-6K). PSNR and SSIM scores calculated on both RGB channels (first two columns in each alpha range) and the Y channel in YCbCr color space (second two columns in each alpha range). Each alpha range contains 100 test samples, with 300 samples in total.}
 \end{table}
-
-
-
-
-
-
 \end{document}
