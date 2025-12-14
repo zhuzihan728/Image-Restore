@@ -52,4 +52,4 @@
 - Table ([./assets/table.tex](./assets/table.tex)): <br>
   <img src="./assets/table2.jpeg" width=100%>
 - Visual: <br>
-  
+  <img src="./assets/eval_comparison.png" width=100%>
