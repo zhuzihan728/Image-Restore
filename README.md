@@ -9,18 +9,17 @@
 - Repo for evalute paper: [Vision Transformers for Single Image Dehazing](https://github.com/IDKiro/DehazeFormer)
 
 ### new data
-- Created dataset: [./test_data/metadata.json](./test_data/metadata.json)
+- Created dataset: [google drive](https://drive.google.com/drive/folders/1a5cjvVJUyiW2j9DYTFiO4hbZbzTse2eL?usp=sharing) 
   - alpha ranges [0.1-0.5, 0.5-0.8, 0.8-1.0]
-  - mask random scale [1.0-1.2]
-  - mask random crop
-  - size: 3x100 = 300 images (3 alpha ranges, other parameters fixed)
+  - mask scale [2.0]
+  - size: 3x100 = 300 images (3 alpha ranges)
 - Script: [./image_gen.ipynb](./image_gen.ipynb)
 - Visual: <br>
   <img src="./assets/corrupted_data.png" width=70%>
 
 ### eval results
 - Script: [./restormer_eval.ipynb](./restormer_eval.ipynb)
-- Metrics (不确定对不对）：
+- Metrics：
     ```python
 
 
@@ -50,6 +49,6 @@
                 ssim_y = structural_similarity(original_y, restored_y, data_range=255)
     ```
 - Table ([./assets/table.tex](./assets/table.tex)): <br>
-  <img src="./assets/table2.jpeg" width=100%>
+  <img src="./assets/table.png" width=100%>
 - Visual: <br>
   <img src="./assets/eval_comparison.png" width=100%>
